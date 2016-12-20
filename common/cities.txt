@@ -1,0 +1,1571 @@
+AAE|DZ|ANNABA|安纳巴，阿尔及利亚(ALGERIA)，非洲北部|
+AAL|DK|AALBORG|奥尔堡，丹麦(DENMARK)，欧洲|
+AAR|DK|AARHUS|奥尔胡斯，丹麦(DENMARK)，欧洲|
+AAT|CN|ALTAY|阿勒泰，中国(CHINA)新疆自治区，亚洲|
+ABD|IR|ABADAN|阿巴丹岛，伊朗(IRAN)，西亚(中东)|
+ABE|US|BETHLEHEM|伯利恒，美国(USA)宾夕法尼亚州，北美洲|
+ABE|US|ALLENTOWN|阿伦敦，美国(USA)宾夕法尼亚州，北美洲|
+ABE|US|EASTON|伊斯顿，美国(USA)宾夕法尼亚州，北美洲|
+ABI|US|ABILENE|阿比林，美国(USA)得克萨斯州，北美洲|
+ABJ|CU|ABIDJAN|阿比让，科特迪瓦(COTE D‘LOVOIRE)，西非|
+ABQ|US|ALBUQUERQUE(ALBUQUERQU)|阿尔伯克基，美国(USA)新墨西哥州，北美洲|
+ABR|US|ABERDEEN|阿伯丁，美国(USA)南达科他州，北美洲|
+ABV|NG|ABUJA|阿布贾，尼日利亚(NIGERIA)首都，非洲|
+ABY|US|ALBANY|奥尔巴尼，美国(USA)佐治亚州，北美洲|
+ABZ|GB|ABERDEEN|阿伯丁，英国(UNITED KINGDOM)，欧洲|
+ACC|GH|ACCRA|阿克拉，加纳(GHANA)首都，非洲|
+ACT|US|WACO|韦科，美国(USA)得克萨斯州，北美洲|
+ACY|US|INTERNATIONAL AIRPORT，ATLANTIC CITY|美国新泽西州，大西洋城国际机场|
+ADA|TR|ADANA|阿达纳，土耳其(TURKEY)，西北亚|
+ADB|TR|ADNAN MENDERES AIRPORT，IZMIR|土耳其，伊兹密尔市，阿德哈恩门德雷斯机场|
+ADD|ET|ADDIS ABABA|亚的斯亚贝巴，塞俄比亚(ETHIOPIA)首都，非洲|
+ADE|YE|ADEN|亚丁，也门(YEMEN)，西亚(中东)|
+ADL|AU|ADELAIDE|阿德莱德，澳大利亚(AUSTRALIA)南澳大利亚州，大洋洲|
+ADZ|CO|SAN ANDRES|圣安德烈斯，哥伦比亚(COLOMBIA)，南美洲|
+AEP|AR|JORGE NEWBERY AIRPORT BUENOUS AIRES|阿根廷 布宜诺斯艾利斯市，豪尔赫纽贝里机场|
+AEX|US|ALEXANDRIA|亚历山德里拉，美国(USA)路易斯安那州，北美洲|
+AEY|IS|AKUREYRI|阿克雷里，冰岛(ICLAND)，北欧|
+AFA|AR|SAN RAFAEL|圣拉斐尔，阿根廷(ARGENTINA)门多萨州，南美洲|
+AGA|MA|AGADIR|阿加迪尔，摩洛哥(MOROCCO)，非洲北部|
+AGH|SE|HELSINGBORG|赫尔辛堡，瑞典(SWEDEN)，北欧|
+AGP|ES|MALAGA|马拉加，西班牙(SPAIN)，欧洲|
+AGS|US|AUGUSTA|奥古斯塔，美国(USA)佐治亚洲，北美洲|
+AHB|SA|ABHA|艾卜哈，沙特阿拉伯(SAUDI ARABIA)，西亚(中东)|
+AHN|US|ATHENS|雃典，美国(USA)佐治亚州，北美洲|
+AHO|IT|ALGHERO|阿尔盖罗，意大利(ITALY)，欧洲|
+AID|US|ANDERSON|安德尔逊，美国(USA)印地安纳州，北美洲|
+AIY|US|ATLANTIC CITY     (ATLANTIC C)|大西洋城，美国(USA)新泽西州，北美洲|
+AJA|FR|AJACCIO|阿雃克肖，法国(FRANCE)，欧洲|
+AJU|BR|ARACAJU|阿拉卡茹，巴西(BRAZIL)塞尔希培州，南美洲|
+AJY|NE|AGADES|阿加德兹，尼日尔(NIGER)西非|
+AKA|CN|ANKANG|安康，中国(CHINA)陕西省，亚洲|
+AKE|GA|AKIENI|阿基埃尼，加蓬(GABON)，非洲中西部|
+AKF|LY|KUFRAH|库夫拉绿，利比亚(LIBYA)，非洲北部|
+AKJ|JP|ASAHIKAWA|旭川，日本(JAPAN)，亚洲|
+AKL|NZ|AUCKLAND|奥克兰，新西兰(NEW ZEALAND)，大洋洲|
+AKU|CN|AKSU|阿克苏，中国(CHINA)新疆自治区，亚洲|
+ALA|KZ|ALMATY|阿拉木图，哈萨克斯坦(KAZAKSTAN)首都，西北亚|
+ALB|US|SCHENECTADY|斯克内克塔迪，美国(USA)纽约州，北美洲|
+ALC|ES|ALCANTE|阿利坎特，西班牙(SPAIN)，欧洲|
+ALF|NO|ALTA|阿尔塔，挪威(NORWAY)，北欧|
+ALG|DZ|ALGIERS|阿尔及尔，阿尔及利亚(ALGERIA)首都，非洲|
+ALH|AU|ALBANY|奥尔巴尼，澳大利亚(AUSTRALIA)，西澳大利亚州，大洋洲|
+ALO|US|WATERLOO|华铁卢，美国(USA)艾奥瓦州，北美洲|
+ALP|SY|ALEPPO|阿勒颇，叙利亚(SYRIA)，西亚(中东)|
+ALR|NZ|ALEXANDRA|亚历山德拉，新西兰(NEW ZEALAND)大洋洲|
+ALY|EG|ALEXANDRIA|亚历山大，埃及(EGYPT)非洲|
+AMA|US|AMARILLO|阿马里洛，美国(USA)得克萨斯州，北美洲|
+AMM|JO|AMMAN|安曼，约旦(JORDAN)首都，亚洲(中东)|
+AMS|NL|AMSTERDAM|阿姆斯特丹，荷兰(NETHERLANDS)首都，欧洲|
+ANC|US|ANCHORAGE|安克雷奇，美国(USA)阿拉斯加州，北美洲|
+AND|US|ANDERSON|安德尔逊，美国(USA)南卡罗来纳州，北美洲|
+ANF|CL|ANTOFAGASTA|安托法加斯塔，智利(CHILE)，南美洲|
+ANK|TR|ANKARA|安卡拉，土耳其(TURKEY)首都，西北亚|
+ANR|BE|ANTWERP|安特卫普，比利时(BELGIUM)，欧洲|
+ANU|AG|ANTIGUA|安提瓜，安提瓜和巴布达(ANTIGUA AND BARBUDA)，加勒比海地区|
+ANX|NO|ANDENES|安德内斯，挪威(NORWAY)，北欧|
+AOG|CN|ANSHAN|鞍山，中国(CHINA)辽宁省，亚洲|
+AOI|IT|ANCONA|安科纳，意大利(ITALY)，欧洲|
+AOJ|JP|AOMORI|青森，日本(JAPAN)，亚洲|
+AOR|MY|ALOR SETAR|亚罗士打，马来西亚(MALAYSIA)，亚洲|
+APW|WS|APLA|阿皮亚，萨摩亚(SAMOA)，大洋洲|
+AQG|CN|ANQING|安庆，中国(CHINA)安徽省，亚洲|
+AQJ|JO|AQABA|阿喀巴，约旦(JORDAN)，西亚(中东)|
+ARI|CL|ARICA|阿里卡，智利(CHILE)，南美洲西岸|
+ASA|ER|ASSAB|阿萨布，厄立特里亚(ERITREA)，东非|
+ASB|TM|ASHGABAD|阿什哈巴德，土库曼斯坦共和国(TURKMENISTAN)首都，中亚|
+ASE|US|ASPEN|阿斯彭，美国(USA)科罗拉多州，北美洲|
+ASK|CI|YAMOUSSOUKRO|亚穆苏克罗，科特迪瓦(COTE D‘LVORE)首都，非洲|
+ASM|ER|ASMARA|阿斯马拉，厄立特里亚(ERITREA)首都，非洲|
+ASQ|US|AUSTIN|奥斯汀，美国(USA)内华达州，北美洲|
+ASU|PY|ASUNCION|亚松森，巴拉圭(PARAGUAY)首都，南美洲|
+ASW|EG|ASWAN|阿斯旺，埃及(EGYPT)，非洲东北部|
+ASX|US|ASHLAND|阿斯兰，美国(USA)威斯康星州，北美洲|
+ATH|GR|ATHENS|雃典，希腊(GREECE)首都，欧洲|
+ATL|US|ATLANTA|亚特兰大，美国(USA)佐治亚州，北美洲|
+ATO|US|ATHENS|雃典，美国(USA)俄亥俄州，北美洲|
+ATR|MR|ATAR|阿塔尔，毛里塔尼亚(MAURITANIA)，西非|
+ATW|US|APPLETON|阿普尔顿，美国(USA)，威斯康星州，北美洲|
+AUA|AW|ARUBA|阿鲁巴，阿鲁巴(ARUBA)(荷)，加勒比海地区|
+AUG|US|AUGUSTA|奥古斯塔，美国(USA)缅因州，北美洲|
+AUH|AE|ABU DHABI|阿布扎比，阿拉伯联合酋长国(UNITED ARAB EMIRATES)首都，西亚(中东)|
+AUM|US|AUSTIN|奥斯汀，美国(USA)明尼苏达州，北美洲|
+AUO|US|AUBURN|奥本，美国(USA)阿拉巴马州，北美洲|
+AUS|US|AUSTIN|奥斯汀，美国(USA)得克萨斯州，北美洲|
+AUW|US|WAUSAU|沃奥，美国(USA)威斯康星州，北美洲|
+AVL|US|ASHEVILLE|阿什维尔，美国(USA)北卡罗来纳州，北美洲|
+AXA|AI|ANGUILLA|安圭拉(ANGUILLA)，加勒比海地区|
+AXB|US|ALEXANDRIA|亚历山德里拉，美国(USA)纽约州，北美洲|
+AXD|GR|ALEXANDROUPOLIS|亚历山德鲁波利斯，希腊(GREECE)，欧洲巴尔干半岛南部|
+AXT|JP|AKITA|秋田，日本(JAPAN)，亚洲|
+AYC|CO|AYACUCHO|阿亚库乔，哥伦比亚(COLOMBIA)，南美洲|
+AYP|PE|AYACUCHO|阿亚库乔，秘鲁(PERU)，南美洲|
+AZO|US|KALAMAZOO|卡拉马祖，美国(USA)密歇根州，北美洲|
+AZR|DZ|ADRAR|阿德拉尔，阿尔及利亚(ALGERIA)非洲西北部|
+BAH|BH|BAHRAIN|巴林，巴林岛(BAHRAIN)，西亚(中东)|
+BAK|AZ|BAKU|巴库，阿塞拜疆(AZERBAIJAN)首都，西北亚|
+BAQ|CO|BARRANQUILLA|巴兰基亚，哥伦比亚(COLOMBIA)南美洲西北部|
+BAV|CN|BAOTOU|包头，中国(CHINA)内蒙古自治区，亚洲|
+BBA|CL|BALMACEDA|巴尔马塞达，智利(CHILE)南美洲南部西岸|
+BBF|US|BURLINGTON|伯灵顿，美国(USA)马萨诸塞州，北美洲|
+BBK|BW|KASANE|卡萨内，博茨瓦纳(BOTSWANA)，非洲南部|
+BBN|MY|BARIO|巴里奥，马来西亚(MALAYSIA)，亚洲|
+BBR|GP|BASSE TERRE|巴斯特尔，瓜得罗普岛(GUADELOUPE)，加勒比海地区(法属)|
+BBT|CF|BERBERATI|贝贝拉蒂，中非共和国(CENTRAL AFRICAN REPUBLIC)非洲北部|
+BBY|CF|BAMBARI|班巴里，中非共和国(CENTRAL AFRICAN REPUBLIC)，非洲|
+BBZ|ZM|ZAMBEZI|赞比西，赞比亚(ZAMBIA)，非洲|
+BCN|ES|BARCELONA|巴塞罗那，西班牙(SPAIN)，欧洲|
+BCV|BZ|BELMOPAN|贝尔莫潘，伯利兹(BELIZE)首都，中美洲|
+BDA|BM|BERMUDA|百慕大(BERMUDA)，西印度群岛|
+BDA|BM|HAMILTON|哈密尔顿，百慕大(MERMUDA)，大西洋岛屿|
+BDJ|ID|BANJARMASIN|马辰(班贾尔马辛)，印度尼西亚(INDONESIA)，亚洲|
+BDS|IT|BRINDISI|布林迪西，意大利(ITALY)，欧洲|
+BDU|NO|BARDUFOSS|巴尔杜福斯，挪威(NORWAY)，北欧|
+BEB|GB|BENBECULA|本贝丘拉，英国(UNITED KINGDOM)，欧洲|
+BED|US|BEDFORD|贝德福德，美国(USA)马萨诸塞州，北美洲|
+BEF|NI|BLUEFIELDS|布卢菲尔兹，尼加拉瓜(NICARAGUA)中美洲|
+BEG|YU|BELGRADE|贝尔格莱德，萨塞尔维亚和黑山(SERBIA AND MONTENEGRO)首都，欧洲|
+BEL|BR|BELEM|贝伦，巴西(BRAZIL)巴拉州，南美洲|
+BEN|LY|BENGHAZI|班加西，利比亚(LIBYA)，非洲|
+BER|DE|BERLIN|柏林，德国(GERMANY)首都，欧洲|
+BES|FR|BREST|布鲁斯特，法国(FRANCE)欧洲|
+BEW|MZ|BEIRA|贝拉，莫桑比克(MOZAMBIQUE)，非洲|
+BEY|LB|BEIRUT|贝鲁特，黎巴嫩LEBANON)首都，西亚(中东)|
+BFD|US|BRADFORD|布拉德福德，美国(USA)宾夕法尼亚洲，北美洲|
+BFL|US|BAKERSFIELD     (BAKERSFIEL)|贝克斯菲尔德，美国(USA)加利福尼亚州，北美洲|
+BFN|ZA|BLAOEMFONTEIN|布隆方舟，南非(SOUTH AFRICA)，奥兰治自由邦首府，非洲南部|
+BFR|US|BEDFORD|贝德福德，美国(USA)印第安纳州，北美洲|
+BFS|GB|BELFAST|贝尔法斯特，英国(UNITED KINGDOM)，欧洲|
+BFU|CN|BENGBU|蚌埠，中国(CHINA)安徽省，亚洲|
+BGA|CO|BUCARAMANGA|布卡拉曼加，哥伦比亚(COLOMBIA)南美洲西北部|
+BGB|GA|BOOUE|博韦，加蓬(GABON)，非洲中西部|
+BGF|CF|BANGUI|班吉，中非共和国(CENTRAL AFRICAN REPUBLIC)首都，非洲|
+BGI|BB|BARBADOS|巴巴多斯，巴巴多斯(BARBADOS)，加勒比海地区|
+BGM|US|BINGHAMTON|宾厄姆顿，美国(USA)纽约州，北美洲|
+BGM|US|JOHNSON CITY     (JOHNSON CI)|杰克逊城，美国(USA)纽约州，北美洲|
+BGO|NO|BERGEN|卑尔根，挪威(NORWAY)，北欧|
+BGR|US|BANGOR|班戈，美国(USA)缅因州，北美洲|
+BGW|IQ|BAGHDAD|马格达，伊拉克(IRAQ)首都，西亚(中东)|
+BHM|US|BIRMINGHAM|伯明翰，美国(USA)阿拉巴马州，北美洲|
+BHS|AU|BATHURST|巴瑟斯特，澳大利亚(AUSTRALIA)新南威尔士州，大洋洲|
+BHX|GB|BIRMINGHAM|伯明翰，英国(UNITED KINGDOM)，欧洲|
+BHY|CN|BEIHAI|北海，中国(CHINA)，广西省，亚洲|
+BHZ|BR|BELO|贝洛奥里藏特，巴西(BRAZIL)米纳斯吉斯州，南美洲|
+BIA|FR|BASTIA|巴斯蒂亚，法国(RANCE)，亚洲|
+BIK|ID|BIAK|比亚克，印度尼西亚(INDONESIA)，亚洲|
+BIL|US|BILLINGS|比灵斯，美国(USA)蒙大拿州，北美洲|
+BIO|ES|BILBAO|毕尔巴鄂，西班牙(SPAIN)被部港市，欧洲|
+BIQ|FR|BIARRITZ|比亚里茨，法国(FRANCE)，欧洲|
+BIS|US|BISMARCK|卑四麦，美国(USA)北达科他州，北美洲|
+BJF|NO|BATSF JORD|博茨埉湾，挪威(NORWAY)，北欧|
+BJL|GM|BANJUL|班珠尔，冈比亚(GAMBIA)首都，非洲|
+BJM|BI|BUJUMBURA|布琼布拉，布隆迪(BURUNDI)首都，非洲|
+BJS|CN|BEIJING|北京，中国(CHINA)，首都，亚洲|
+BJX|MX|LEON/GUANAJUA|利昂/瓜纳茹阿，墨西哥(MEXICO)，中美洲|
+BJZ|ES|BADAJOZ|巴达霍斯，西班牙(SPAIN)，欧洲|
+BKI|MY|KOTA KINABALU|哥打基纳巴鲁，马来西亚(MALAYSIA)，亚洲|
+BKK|TH|BANGKOK|曼谷，泰国(THAILAND)，首都，亚洲|
+BKM|MY|BAKALALAN|巴卡拉兰，马来西亚(MALAYSIA)，亚洲|
+BKO|ML|BAMAKO|巴马科，马里(MALI)首都，非洲|
+BKX|US|BROOKINGS|布鲁金斯，美国(USA)南达科他州，北美洲|
+BKY|CD|BUKAVU|布卡武，刚果(金)(CONGO)(KINSHASA)，非洲中部(ZAIRE扎伊尔)|
+BLA|VE|BARCELONA|巴塞罗那，委内瑞拉(VENEZUELA)，南美洲|
+BLE|SE|BORLANGE|博伦厄，瑞典(SWEDEN)，北欧|
+BLF|US|BLUEFIELD|布卢菲尔德，美国(USA)西弗吉尼亚州，北美洲|
+BLF|US|PRINCETON|普林斯顿，美国(USA)西弗吉尼亚州，北美洲|
+BLG|MY|BELAGA|贝拉卡，马来西亚(MALAYSIA)，亚洲|
+BLL|DK|BILLUND|比隆，丹麦(DENMARK)，北欧|
+BLQ|IT|BOLOGNA|博洛尼亚，意大利(ITALY)，欧洲|
+BLR|IN|BANGALORE|班加罗尔，印度(INDIA)，亚洲|
+BLZ|MW|BLANTYRE|布兰太尔，马拉维(MALAWI)，非洲中部|
+BMG|US|BLOOMINGTON     (BLOOMINGT)|布卢明顿，美国(USA)印第安纳州，北美洲|
+BMI|US|BLOOMINGTON     (BLOOMINGT)|布卢明顿，美国(USA)伊利诺斯州，北美洲|
+BML|US|BERLIN|柏林，美国(USA)新罕布什尔州，北美洲|
+BMM|GA|BITAM|比塔姆，加蓬(GABON)，非洲中西部|
+BNA|US|NASHVILLE|纳什维尔，美国(USA)田纳西州，北美洲|
+BNE|AU|BRISBANE|布里斯班，澳大利亚(AUSTRALIA)昆士兰州，大洋洲|
+BNJ|DE|BONN|波思，德国(GERMANY)欧洲|
+BNN|NO|RONNOYSUND|布伦讷于松，挪威(NORWAY)北欧|
+BNU|BR|BLUMENAU|布卢梅瑙，巴西(BRAZIL)圣卡塔林纳州，南美洲|
+BOD|FR|BORDEAUX|波尔多，法国(FRANCE)，欧洲|
+BOG|CO|BOGOTA|波哥大，哥伦比亚(COLOMBIA)首都，南美洲|
+BOH|GB|BOURNEMOUTH|伯恩茅斯，英国(UNITED KINGDOM)欧洲|
+BOI|US|BOISE|博伊西，美国(USA)爱达荷州，北美洲|
+BOK|US|BROOKINGS|布鲁金斯，美国(USA)俄勒冈州，北美洲|
+BOM|IN|MUMBAI     (BOMBAY)|孟买，印度(INDIA)，亚洲|
+BON|AN|BONAIRE|博奈尔，荷属安的列斯岛(NETHERLANDS ANTILLES)，加勒比海地区|
+BOO|NO|BIDI|博德，挪威(NORWAY)，北欧|
+BOS|US|BOSTON|波士顿，美国(USA)马萨诸塞州，北美洲|
+BOY|BF|BOBO DIOULASSO     (BOBO DIOULASS)|博博迪乌拉索，布基纳法索(BURKINA FASO)，西非|
+BPN|ID|BALIDPAPAN|巴厘巴板，印度尼西亚(INDONESIA)，亚洲|
+BPT|US|BEAUMONT|博蒙特，美国(USA)得克萨斯州，北美洲|
+BQN|PR|AGUADILLA|阿瓜迪亚，波多黎各(PUERTO RICO)，加勒比海地区|
+BQQ|BR|BARRA|巴拉，巴西(BRAZIL)巴伊亚州，南美洲|
+BQT|BY|BREST|布鲁斯特，白俄罗斯(BLEARS)，欧洲|
+BQU|VC|PORT ELIZABETH     (PT ELIZABETH)|伊丽莎白港，圣文森特和格林纳丁斯(ST。VINCENT &amp; TE GRENADINES)，加勒比海地区|
+BRE|DE|BREMEN|不来梅，德国(GERMANY)欧洲|
+BRF|GB|BRADFORD|布拉德福德，英国(UNITED KINGDOM)欧洲|
+BRI|IT|BARI|巴里，意大利(ITALY)，欧洲|
+BRL|US|BURLINGTON|伯灵顿，美国(USA)艾奥瓦州，北美洲|
+BRM|VE|BARQUISIMETO|巴基西梅托，委内瑞拉(VENEZUELA)，南美洲|
+BRN|CH|BERNE|伯尔尼，瑞士(SWITZERLAND)首都，欧洲|
+BRO|US|BROWNSVILLE     (BROWNSVIL)|布朗维尔，美国(USA)得克萨斯州，北美洲|
+BRQ|CZ|BRNO|布尔诺，捷克(CZECK REPUBLIC)，欧洲|
+BRR|GB|BARRA|巴拉，英国(UNITED KINGDOM)，南美洲|
+BRS|GB|BRISTOL|布里斯托尔，英国(UNITED KINGDOM)，欧洲|
+BRT|AU|BATHURST ISLAND     (BATHURST I)|巴瑟斯特岛，澳大利亚(AUSTRALIA)，北部地区，北美洲|
+BRU|BE|BRUSSELS|布鲁塞尔，比利时(BELGIUM)首都，欧洲|
+BSB|BR|BRASILIA|巴西利亚，巴西(BRAZIL)首都(联邦区)，南美洲|
+BSD|CN|BAOSHAN|保山，中国(CHINA)，云南省，亚洲|
+BSK|DZ|BISKRA|比斯克拉，阿尔及利亚(ALGERA)，非洲西北部|
+BSL|CH|BASLE|巴塞尔，瑞士(SWITZERLAND)，欧洲|
+BSR|IQ|BASRA|巴士拉，伊拉克(IRAQ)西亚(中东)|
+BTH|ID|BATAM|巴谈，印度尼西亚(INDONESIA)，亚洲|
+BTJ|ID|BANDA ACEH|班达亚齐，印度尼西亚(INDONISIA)亚洲|
+BTR|US|BATON ROUGE|巴吞鲁日，美国(USA)路易斯安纳州，北美洲|
+BTS|SK|BRATISLAVA|布拉迪斯拉发，斯洛伐克(SLOVAKIA)首都，欧洲|
+BTU|MY|BINTULU|民都鲁，马来西亚(MALAYSIA)，亚洲|
+BTV|US|BURLINGTON|伯灵顿，美国(USA)佛蒙特州，北美洲|
+BUD|HU|BUDAPEST|布达佩斯，匈牙利(HUNGARY)首都，欧洲|
+BUE|AR|BUENOS AIRES     (BUEN AIRES)|布宜诺斯艾利斯，阿根廷(ARGENTINA)首都(布宜诺斯艾利斯省)，南美洲|
+BUF|US|BUFFALO|布法罗，美国(USA)纽约州，北美洲|
+BUH|RO|BUCHAREST|布加勒斯特，罗马尼亚(ROMANIA)首都，欧洲|
+BUJ|DZ|BOUSSAADA|布萨达，阿尔及利亚(ALGERIA)非洲西北部|
+BUQ|ZW|BULAWAYO|布拉瓦约，津巴布韦(ZIMBABWE)非洲南部|
+BUR|US|BURBANK|伯班尼，美国(USA)加利福尼亚州，北美洲|
+BUX|CD|BUNIA|布尼亚，刚果(金)(CONGO)(KINSHASA)，非洲中部(ZAIRE扎伊尔)|
+BVB|BR|BOA VISTA|博阿维斯塔，巴西(BRAZIL)罗赖马地区，南美洲|
+BVC|CV|BOA VISTA|博阿维斯塔，佛得角(CAPE VERDE)，中美洲|
+BVG|NO|BERLEVAG|贝勒沃格，挪威(NORWAY)，北欧|
+BWI|US|BALTIMORE|巴尔的摩，美国(USA)马里兰州，北美洲|
+BWN|BN|BANDER SERI BEGWAN    (BANDAR SERI B)|斯里巴加湾，文莱(BRUNEI DARUSSALAM)，亚洲|
+BXE|SN|BAKEL|巴克尔，塞内加尔(SENEGAL)，西非|
+BYK|CI|BOUAKE|布瓦凯，科特迪瓦(COTE D‘LVOIRE)，西非|
+BZE|BZ|BELIZE|贝利兹，贝利兹(BELIZE)，中美洲|
+BZV|CG|BRAZZAVILLE|布拉柴维尔，刚果(布)(CARGO)(BRAZZAVILLE)首都，南美洲|
+CAE|US|COLUMBIA|哥伦比亚，美国(USA)南卡罗来纳州，北美洲|
+CAG|IT|CAGLIARI|卡利亚里，意大利(ITALY)，欧洲|
+CAI|EG|CAIRO|开罗，埃及(EGYPT)首都，非洲|
+CAN|CN|GUANGZHOU|广州，中国(CHINA)，广东省，亚洲|
+CAS|MA|CASABLANCA|卡萨布兰卡，摩洛哥(MOROCCO)，非洲|
+CAY|GF|CAYENNE|卡宴，法属卡亚那(FRENCH GUIYANA)首都，南美洲|
+CBB|BO|COCHABAMBA|科恰班巴，玻利维亚(BOLIVIA)南美洲中部|
+CBH|DZ|BECHAR|贝沙尔，阿尔及利亚(ALGERIA)，非洲北部|
+CBR|AU|CANBERRA|堪培拉，澳大利亚(AUSTRALIA)首都，(澳大利亚首都地区)，大洋洲|
+CCI|BR|CONCORDIA|康科迪亚，巴西(BRAZIL)圣卡塔林纳州，南美洲|
+CCP|CL|CONCEPCION|康塞普西翁，智利(CHILE)南美洲|
+CCR|US|CONCORD|康科德，美国(USA)加利福尼亚州，北美洲|
+CCS|VE|CARACAS|加拉加斯，委内瑞拉VENEZUELA)首都，南美洲|
+CCU|IN|KOLKATA     (原名：CALCUTA)|加尔各答，印度(INDIA)，亚洲|
+CDH|US|CAMDEN|卡姆登，美国(USA)阿肯色州，北美洲|
+CDU|AU|CAMDEN|卡姆登，澳大利亚(AUSTRALIA)新南威尔士州，大洋洲|
+CEB|PH|CEBU|宿务，菲律宾(PHILIPPINES)亚洲|
+CEN|MX|CIUDAD OBREGON     (CIUDAD OBREGO)|奥夫雷贡城，墨西哥(MEXICO)中美洲|
+CEP|BO|CONCEPCION|康塞普西翁，玻利维亚(BOLIVIA)南美洲|
+CFE|FR|CLERMONT-FERRAND     (CLERMONT-FERR)|克莱蒙费朗，法国(FRANCE)，欧洲|
+CFR|FR|CAEN|卡昂，法国(FRANCE)欧洲|
+CFU|GR|KERKYRA|克基拉，希腊(GREECE)，欧洲巴尔干半岛|
+CGB|BR|CUIABA|库亚巴，巴西(BRAZIL)巴托格罗索州，南美洲|
+CGD|CN|CHANGDE|常德，中国(CHINA)湖南省，亚洲|
+CGI|US|CAPE GIRARDEAU     (CAPE GIRAR)|开普吉拉多，美国(USA)密苏里州，北美洲|
+CGN|DE|COLOGNE|科隆，德国(GERMANY)欧洲|
+CGO|CN|ZHENGZHOU|郑州，中国(CHINA)河南省，亚洲|
+CGP|BD|CHITTAGONG|吉大港，孟加拉国(BANGLADESH)亚洲|
+CGQ|CN|CHANGCHUN|长春，中国(CHINA)吉林省，亚洲|
+CHA|US|CHATTANGOOG|查塔努加，美国(USA)田纳西州，北美洲|
+CHC|NZ|CHRISTCHURCH|克赖斯特彻奇，新西兰(NEW ZEALAND)大洋洲|
+CHG|CN|CHAOYANG|朝阳，中国(CHINA)，辽宁省，亚洲|
+CHI|US|CHICAGO|芝加哥，美国(USA)伊利诺斯州，北美洲|
+CHO|US|CHARLOTTES|夏洛特斯，美国(USA)弗吉尼亚州，北美洲|
+CHQ|GR|CHANIA|干尼亚，希腊(GREECE)欧洲|
+CHS|US|CHARLESTON|查尔斯敦，美国(USA)南卡罗来纳州，北美洲|
+CHT|NZ|CHATHAM ISLAND     (CHATHAM IS)|查塔姆岛，新西兰(NEW ZEALAND)，大洋洲|
+CHW|CN|JIUQUAN|酒泉，中国(CHINA)甘肃省，亚洲|
+CID|US|CEDAR RAPIDS     (CEDAR RAPI)|锡达拉皮兹，美国(USA)艾奥瓦州，北美洲|
+CIF|CN|CHIFENG|赤峰，中国(CHINA)内蒙古自治区，亚洲|
+CIH|CN|CHANGZHI|长治，中国(CHINA)山西省，亚洲|
+CIO|PY|CONCEPCION|康塞普西翁，巴拉圭(PARAGUAY)南美洲|
+CIP|ZM|CHIPATA|奇帕塔，赞比亚(ZAMBIA)非洲|
+CJS|MX|CIUDAD JUAREZ|华雷斯，墨西哥(MEXICO)中美洲|
+CJU|KR|JEJU|济州，韩国(KOREA REPUBLIC OF)，亚洲|
+CKE|US|CLEAR LAKE|克利尔莱克，美国(USA)加利福尼亚州，北美洲|
+CKG|CN|CHONGQING|重庆，中国(CHINA)直辖市，亚洲|
+CKY|GN|CONAKRY|科纳克里，几内亚(GUINEA)首都，非洲|
+CLC|US|CLEARLAKE|克利尔莱克，美国(USA)得克萨斯州，北美洲|
+CLD|US|CARLSBAD|卡尔斯巴德，美国(USA)加利福尼亚州，北美洲|
+CLE|US|CLEVELAND|克利夫兰，美国(USA)俄亥俄州，北美洲|
+CLL|US|COLLEGE STATION     (COLLEGE S)|科利奇站，美国(USA)得克萨斯州，北美洲|
+CLO|CO|CALI|卡利，哥伦比亚(COLOMBIA)，南美洲|
+CLT|US|CHARLOTTE|夏洛特，美国(USA)北卡罗来纳州，北美洲|
+CLY|FR|CALVI|卡尔维，法国(FRANCE)，欧洲|
+CMB|LK|COLOMBO|科伦坡，斯里兰卡(SRI LANKA)首都，南亚|
+CME|MX|CIUDAD DEL CAMEN     (CIUDAD DEL CA)|卡门城，墨西哥MEXICO)中美洲|
+CMF|FR|CHAMBERY|尚贝里，法国(FRANCE)，欧洲|
+CMH|US|COLUMBUS|哥伦布，美国(USA)俄亥俄州，北美洲|
+CMI|US|CHAMPAIGN|尚佩恩，美国(USA)伊利诺伊州，北美洲|
+CND|RO|CONSTANTA|康斯坦察，罗马尼亚(ROMANIA)欧洲|
+CNI|TW|GREEN ISLAND|绿岛，中国(CHINA)台湾省，亚洲|
+CNM|US|CARLSBAD|卡尔斯巴德，美国(USA)新墨西哥州，北美洲|
+CNX|TH|CHIANG MAI|清迈，泰国(THAILAND)亚洲|
+COA|US|COLUMBIA|哥伦比亚，美国(USA)加利福尼亚洲，北美洲|
+COC|AR|CONCORDIA|康科迪亚，阿根廷(ARGENTINA)恩特雷里斯省，南美洲|
+COK|IN|KOCHI|科奇，印度(INDIA)，亚洲|
+COO|BJ|COTONOU|科托努，贝宁(BENIN)，非洲|
+COR|AR|CORDOBA|科尔多瓦，阿根廷(ARGENTINA)科尔多瓦省，南美洲|
+COS|US|COLORADO SPRINGS     (COLORADO)|科罗拉多斯普林斯，美国(USA)科罗拉多州，北美洲|
+COU|US|COLUMBIA|哥伦比亚，美国(USA)密苏里州，北美洲|
+CPE|MX|CAMPECHE|坎佩切，墨西哥(MEXICO)，中美洲|
+CPH|DK|COPENHAGEN|哥本哈根，丹麦(DENMARK)首都，欧洲|
+CPQ|BR|CAMPINAS|坎皮纳斯，巴西(BRAZIL)圣保罗州，南美洲|
+CPT|ZA|CAPE TOWN|开普敦，南非(SOUTH AFRICA)，非洲南部|
+CPV|BR|CAMPINA     (CAMPINA GR)|大坎皮纳，巴西(BRAZIL)帕拉伊巴州，南美洲|
+CRP|US|CORPUS CHRISTI     (CORPUS CH)|科帕斯克里斯蒂，美国(USA)得克萨斯州，北美洲|
+CRV|IT|CROTONE|克罗托内，意大利(ITALY)欧洲|
+CRW|US|CHARLESTON|查尔斯敦，美国(USA)西弗吉尼亚州，北美洲|
+CSE|US|CRESTED BUTTE     (CRESTED BU)|克雷斯特德比特，美国(USA)科罗拉多州，北美洲|
+CSG|US|COLUMBUS|哥伦布，美国(USA)佐治亚州，北美洲|
+CSL|US|SAN LUIS OBISPO|圣路易斯奥比斯波，美国(USA)加利福尼亚州，北美洲|
+CSU|BR|SANTA CRUZ|圣克鲁斯，巴西(BRAZIL)南里约格朗德州，南美洲|
+CSX|CN|CHANGSHA|长沙，中国(CHINA)湖南省，亚洲|
+CTA|IT|CATANIA|卡塔尼亚，意大利(ITALY)，欧洲|
+CTG|CO|CARTAGENA|卡塔赫纳，哥伦比亚(COLOMBIA)，南美洲西北部|
+CTM|MX|CHETUMAL|切图马尔，墨西哥(MEXICO)，中美洲|
+CTU|CN|CHENGDU|成都，中国(CHINA)四川省，亚洲|
+CUC|CO|CUCUTA|库库洛，哥伦比亚(COLOMBIA)南美洲西北部|
+CUE|EC|CUENCA|昆卡，厄瓜多尔(ECUADOR)，南美洲西北部|
+CUL|MX|CULIACAN|库利亚坎，墨西哥(MEXICO)中美洲|
+CUN|MX|CANCUN|坎昆 ，墨西哥(MEXICO)，中美洲|
+CUR|AN|CURACAO|库拉索，荷属安的列颠(NETHERLANDS ANTILLES)加勒比海地区|
+CUU|MX|CHIHUAHUA|查瓦瓦，墨西哥(MEXICO)中美洲|
+CUZ|PE|CUZCO|库斯科，秘鲁(PERU)，南美洲西部|
+CVG|US|CINCINNATI|辛辛那堤，美国(USA)俄亥俄州，北美洲|
+CWB|BR|CURITIBA|库里蒂巴，巴西(BRAZIL)巴拉那州，南美洲|
+CWL|GB|CARDIFF|加的夫，英国(UNITED KINGDOM)，欧洲|
+CXI|KI|CHRISTMAS IS|圣诞岛，基里巴斯(KIRIBATI)大洋洲，太平洋岛屿|
+CYS|US|CHEYENNE|夏延，美国(USA)怀俄明州，北美洲|
+CZH|BZ|COROZAL|科罗萨尔，贝利兹(BELIZE)中美洲|
+CZL|DZ|CONSTANTINE|君士坦丁，阿尔及利亚(ALGERIA)，非洲|
+CZM|MX|COZUMEL|科苏梅尔，墨西哥(MEXICO)，中美洲|
+CZU|CO|COROZAL|科罗萨尔，哥伦比亚(COLOMBIA)南美洲西北部|
+CZX|CN|CHANGZHOU|常州，中国(CHINA)江苏省，亚洲|
+DAB|US|DAYTONA BEACH     (DAYTONA B)|带托纳比奇，美国(USA)佛罗里达州，北美洲|
+DAC|BD|DHAKA|达卡，孟加拉国(BANGLADESH)首都，南亚|
+DAD|VN|DA NANG|岘港，越南(VIETNAM)亚洲|
+DAM|SY|DAMASCUS|大马士革，叙利亚(SYRIA)首都，西亚(中东)|
+DAN|US|DANVILLE|丹斯维尔，美国(USA)弗吉尼亚洲，北美洲|
+DAR|TZ|DAR ES SALAAM|达累斯萨拉姆，坦桑尼亚(TANZANIA)首都，非洲|
+DAX|CN|DAXIAN|达县，中国(CHINA)四川省，亚洲|
+DAY|US|DAYTON|代顿，美国(USA)俄亥俄州，北美洲|
+DBQ|US|DUBUQUE|迪比克，美国(USA)艾奥瓦州，北美洲|
+DBV|HR|DUBROVNIK|杜布罗夫尼克，克罗地亚(CROATIA)，欧洲巴尔干半岛|
+DDG|CN|DANDONG|丹东，中国(CHINA)辽宁省，亚洲|
+DEC|US|DECATUR|迪凯特，美国(USA)伊利诺伊州，北美洲|
+DEL|IN|DELHI|德里，印度(INDIA)首都，亚洲|
+DEN|US|DENVER|丹佛，美国(USA)科罗拉多州，北美洲|
+DFW|US|DALLAS/FTW|达拉斯/沃恩堡，美国(USA)得克萨斯州，北美洲|
+DGO|MX|DURANGO|杜兰戈，墨西哥(MEXICO)，中美洲|
+DIG|CN|ZHONGDIAN|中甸，中国(CHINA)云南省，亚洲|
+DIL|TL|DILI|帝力，东帝文(EAST TIMOR)首都，亚洲|
+DIR|ET|DIRE DAWA|得雷达瓦，埃塞俄比亚(ETHIOPIA)东非|
+DJE|TN|DJERBA|杰尔巴，突尼斯(TUNISA)，非洲|
+DJG|DZ|DJANET|贾奈特，阿尔及利亚(ALGERIA)，非洲西北部|
+DJJ|ID|JAYAPURA|查亚普拉，印度尼西亚(INDONESIA)亚洲|
+DJO|CI|DALOA|达洛亚，科特迪瓦(COTE D‘VOIRE)，西非|
+DKR|SN|DAKAR|达喀尔，塞内加尔(SENEGAL)首都，亚洲|
+DLA|CM|DOUALA|杜阿拉，喀麦隆(CAMEROON)，非洲|
+DLC|CN|DALIAN|大连，中国(CHINA)辽宁省，亚洲|
+DLH|US|DULUTH|德卢斯，美国(USA)明苏里达州，北美洲|
+DLU|CN|DALI CITY|大理，中国(CHINA)云南省)，亚洲|
+DMM|SA|DAMMAM|达曼，沙特阿拉伯(SAUDI ARABIA)，西亚(中东)|
+DNH|CN|DNHUANG|敦煌，中国(CHINA)甘肃省，亚洲|
+DNK|UA|DNEPROPETROVSK     (DENEPROPETROVS)|第聂伯罗彼得罗夫斯克，乌克兰(UKRAINE)，欧洲|
+DNV|US|DANVILLE|丹斯维尔，美国(USA)伊利诺斯州，北美洲|
+DOD|TZ|DODOMA|多多马，坦桑尼亚(TANZANIA)，东非|
+DOH|QA|DOHA|多哈，卡塔尔(QATAR)首都， 西亚(中东)|
+DOK|UA|DONETSK|顿涅茨克，乌克兰(UKRAINE)，欧洲|
+DPS|ID|DENPASAR BALI|登巴萨巴厘，印度尼西亚(INDONESIA)亚洲|
+DRO|US|DURANGO|杜兰戈，美国(CHINA)科罗拉多州，北美洲|
+DRS|DE|DRESDEN|德累斯顿，德国(GERMANY)欧洲|
+DRW|AU|DARWIN|达尔文，澳大利亚(AUSTRALIA)北部地区，大洋洲|
+DSM|US|DES MOINES|得梅因，美国(USA)艾奥瓦州，北美洲|
+DTM|DE|DORTMUND|多特蒙德，德国(GERMANY)，欧洲|
+DTT|US|DETROIT|底特律，美国(USA)密歇根州，北美洲|
+DUB|IE|DUBLIN|都柏林，爱尔兰(IRELAND)首都，欧洲|
+DUG|US|DOUGLAS|道格拉斯，美国(USA)亚利桑那州，北美洲|
+DUR|ZA|DURBAN|德班，南非(SOUTH AFRICA)非洲南部|
+DUS|DE|DUSSELDORF|杜塞尔多夫，德国(GERMANY)欧洲|
+DXB|AE|DUBAI|迪拜，阿拉伯联合酋长国(UNITED ARAB EMIRATES)西亚(中东)|
+DYU|TJ|DUSHANBE|杜尚别，塔吉克斯坦(TAJIKISTAN)，中亚|
+EAR|US|KEARNEY|卡尼，美国(USA)内布拉斯加州，北美洲|
+EAS|ES|SAN SEBASTIAN|圣塞瓦斯蒂安，西班牙(SPAIN)欧洲|
+EBB|UG|ENTEBBE|恩德培，鸟干达(UGANDA)，非洲|
+ECG|US|ELIZABETH|伊丽莎白，美国(USA)北卡罗来纳州，北美洲|
+EDI|GB|EDINBURGH|爱丁堡，英国(UNITED KINGDOM)欧洲|
+EDO|ID|BANDUNG|万隆，印度尼西亚(INDONESIA)，西瓜奎省，亚洲|
+EFL|GR|KEFALLINIA|凯法利尼亚，希腊(GREECE)，欧洲巴尔干半岛|
+EGE|US|VAIL/EAGLE|韦尔-伊格尔，美国(USA)，科罗拉多州，北美洲|
+EIN|NL|EINDHOVEN|艾恩德霍文，荷兰(NETHERLANDS)，欧洲|
+EIS|VG|BEEF ISLAND|BEEF岛，英属维尔京岛(VIRGIN ISLANDS)(BRITISH)加勒比海地区|
+EKA|US|EUREKA|尤里卡，美国(USA)加利福尼亚州，北美洲|
+EKX|US|ELIZABETH|伊丽莎白，美国(USA)肯塔基州，北美洲|
+ELD|US|EL DORADO|埃尔多拉多，美国(USA)阿肯色州，北美洲|
+ELP|US|EL PASO|埃尔帕索，美国(USA)得克萨斯州，北美洲|
+ELQ|SA|GASSIM|加西姆，沙特阿拉伯(SAUDI ARABIA)，西亚(中东)|
+ELS|ZA|EAST LINDON|东伦敦，南非(SOUTH AFRICA)，非洲南部|
+ELY|US|ELY|伊利，美国(USA)内华达州，北美洲|
+EMN|MR|NEMA|肉马，毛里塔尼亚(MAURITANIA)，西非|
+ENF|FI|ENONTEKIO|埃农泰基厄，芬兰(FINLAND)北欧|
+ENH|CN|ENGSHI|恩施，中国(CHINA)湖北省，亚洲|
+ENS|NL|ENSCHEDE|恩斯赫德，荷兰(NETHERLANDS)欧洲西北部|
+ENU|NG|ENUGU|埃努克，尼日利亚(NIGERIA)，西非|
+ENY|CN|YAN’AN|延安，中国(CHINA)陕西省，亚洲|
+EOR|VE|EL DORADO|埃尔多拉多，委内瑞拉(VENEZUELA)，南美洲|
+ERF|DE|ERFURT|爱尔福特，德国(GERMANY)，欧洲|
+ESN|US|EASTON|伊斯顿，美国(USA)马里兰州，北美洲|
+ETZ|FR|METZ/NANCY|梅斯/南锡，法国(FRANCE)，欧洲|
+EUE|US|EUREKA|尤里卡，美国(USA)内华达州，北美洲|
+EUG|US|EUGENE|尤金，美国(USA)俄勒冈州，北美洲|
+EVN|AM|YEREVAN|埃里温，亚美尼亚(ARMENIA)首都，西北亚|
+EVV|US|EVANSVILLE|埃文斯维尔，美国(USA)印第安纳州，北美洲|
+EWN|US|NEW BERN|纽伯恩，美国(USA)北卡罗来纳州，北美洲|
+EWR|US|NEWWARK|纽沃，美国(USA)新泽西州，北美洲|
+EXT|GB|EXETER|埃克塞特，英国(UNITED KINGDOM)欧洲|
+EYW|US|KEY WEST|基韦斯特，美国(USA)佛罗里达州，北美洲|
+FAI|US|FAIRBANKS|费尔班克斯，美国(USA)阿拉斯加州，北美洲|
+FAM|US|FARMINGTON|法明顿，美国(USA)密苏里州，北美洲|
+FAO|PT|FARO|法鲁，葡萄牙(PORTUGAL)，欧洲|
+FAT|US|FRESNO|弗雷斯诺，美国(USA)加利福尼亚州，北美洲|
+FAY|US|FAYETTEVILLE     (FAYETTEVIL)|费耶特维尔，美国(USA)北卡罗来纳州，北美洲|
+FBM|CD|LUBUMBASHI|卢布马希，刚果(金)(CONGO)(KINSHASA)，非洲中部(扎伊尔ZAIRE)|
+FDE|NO|FORDE|弗勒，挪威(NORWAY)北欧|
+FDH|DE|FRIEDRICHSHAFEN     (FRIEDRICHSHAF)|腓特烈港，德国(GERMANY)欧洲|
+FEZ|MA|FEZ|非斯，摩洛哥(MOROCCO)，非洲北部|
+FFT|US|FRANKFORT|法兰克福，美国(USA)肯塔基州，北美洲|
+FIH|CD|KINSHASA|金沙萨，刚果(金)(CONGO)(KINSHASA)首都，非洲(扎伊尔ZAIRE)|
+FJR|AE|AL-FUJAIRAH|富查伊拉，阿拉伯联合酋长国(UNITED ARAB EMIRATES)，西亚(中东)|
+FKJ|JP|FUKUI|福井，日本(JAPAN)，亚洲|
+FKL|US|OIL CITY|石油城，美国(USA)宾夕法尼亚州，北美洲|
+FKS|JP|FUKUSHIMA|福岛，日本(JAPAN)，亚洲|
+FLL|US|FORT LAUDERDALE     (FT LAUDER)|劳德代尔堡，美国(USA)佛罗里达州，北美洲|
+FLN|BR|FLORIANOPOLIS     (FLORIANOPO)|费洛里亚诺波利斯，巴西(BRAZIL)圣卡塔林纳州，南美洲|
+FLO|US|FLORENCE|佛罗伦萨，美国(USA)南卡罗来纳州，北美洲|
+FLR|IT|FLORENCE|佛罗伦萨，意大利(ITALY)欧洲|
+FMN|US|FARMINGTON|法明顿，美国(USA)新墨西哥州，北美洲|
+FMO|DE|MUNSTER|明斯特，德国(GERMANY)欧洲|
+FMY|US|FORT MYERS     (FT MYERS)|迈尔斯堡，美国(USA)佛罗里达州，北美洲|
+FNA|SL|FREE TOWN|弗里敦，塞拉利昆(SIERRA LEONE)首都，非洲|
+FNC|PT|FUNCHAL|丰沙尔，葡萄牙(PORTUGAL)(北大西洋马德拉群岛首府)|
+FNI|FR|NIMES|尼姆，法国(FRANCE)，欧洲|
+FNJ|KP|PYONG YANG| |
+FNT|US|FLINT|费林特，美国(USA)密歇根州，北美洲|
+FOC|CN|FUZHOU|福州，中国(CHINA)福建省，亚洲|
+FOR|BR|FORTALEZA|福塔莱萨，巴西(BRAZIL)塞阿腊州，南美洲|
+FOU|GA|FOUGAMOU|富加穆，加蓬(GABON)，非洲中西部|
+FPO|BS|FREEPORT|费里波特，巴哈马(BAHAMAS)，加勒比海地区|
+FRA|DE|FRANKFURT|法兰克福，德国(GERMANY)欧洲|
+FRO|NO|FLORO|费卢勒，挪威(NORWAY)北欧|
+FRU|KG|BISHKEK|比什凯克，吉尔吉斯斯坦(KYRGYZSTAN)，首都，中亚|
+FRW|BW|FRANCISTOWN|费朗西斯敦，博茨瓦纳(BOTSWANA)非洲南部|
+FSC|FR|FIGARI|菲加里，法国(FRANCE)欧洲|
+FSD|US|SIOUX FALLS     (SIOUX FLLS)|苏福尔斯，美国(USA)南达科他州，北美洲|
+FSM|US|FORT SMITH     (FT SMITH)|史密斯堡，美国(USA)阿肯色州，北美洲|
+FSP|PM|ST PIERRE|圣皮埃尔，圣皮埃尔和密克隆(ST。PIERRE &amp; MIQUELON)，加勒比海地区|
+FUG|CN|FUYANG|阜阳，中国(CHINA)安徽省，亚洲|
+FUK|JP|FUKUOKA|福冈，日本(JAPAN)，亚洲|
+FWA|US|FORT WAYNE     (FT WAYNE)|韦恩堡，美国(USA)印第安纳州，北美洲|
+FYN|CN|FUYUN|富蕴，中国(CHINA)新疆自治区，亚洲|
+FYT|TD|FAYA|法亚，乍得(CHAD)非洲|
+FYV|US|FAYETTEVILLE     (FAYETTEVIL)|费耶特维尔，美国(USA)阿肯色州，北美洲|
+GAJ|JP|YAMAGATA|山形，日本(JAPAN)亚洲|
+GAO|CU|GUANTANAMO|关塔那摩，古巴(CUBA)，加勒比海地区|
+GAX|GA|GAMBA|甘巴，加蓬(GABON)非洲中西部|
+GBE|BW|GABORONE|哈博罗内，博茨瓦纳(BOTSWANA)首都，非洲|
+GBL|AU|GOULBURN ISLAND     (GOULBUERN I)|古尔本岛，澳大利亚(AUSTRALIA)北部地区，大洋洲|
+GCI|GB|GUERNSEY|根西，英国(UNITED KINGDOM)，欧洲|
+GCK|US|GARDEN CI TY     (GARDEN CI)|加登城，美国(USA)堪萨斯州，北美洲|
+GCM|KY|GRAND CAYMAN|大开曼岛，开曼群岛((DAYMAN ISLANDS)，加勒比海地区|
+GDL|MX|GUADALAJARA|瓜达拉哈拉，墨西哥(MEXICO)，中美洲|
+GDN|PL|GDANSK|格但斯克，波兰(POLAND)欧洲|
+GEG|US|SPOKANE|斯波坎，美国(USA)华盛顿州，北美洲|
+GEO|GY|GEORGETOWN|乔治敦，圭亚那(GUYANA)，南美洲|
+GET|AU|GERALDTON|杰拉尔顿，澳大利亚(AUSTRALIA)西澳大利亚州，大洋洲|
+GFK|US|GRAND FORKS     (GRAND FORK)|大福克斯，美国(USA)北达科他州，北美洲|
+GGG|US|LONG VIEW|朗维尤，美国(U.S.A)得克萨斯州，北美洲|
+GGT|BS|GEORGE TOWN|乔治敦，巴哈马(BAHAMAS)，加勒比海地区|
+GGW|US|GLASGOW|格拉斯哥，美国(USA)蒙大拿州，北美洲|
+GHA|DZ|GHARDAIA|盖尔达耶，阿尔及利亚(ALGERIA)非洲西北部|
+GHT|LY|GHAT|加特，利比亚(LIBYA)，非洲西北部|
+GIB|GI|GIBRALTAR|直布罗陀(GIBRALTAR)，地中海地区(西班牙下方)|
+GIZ|SA|GIZAN|吉赞，沙特阿拉伯(SAUDI ARABIA)，西亚(中东)|
+GLA|GB|GLASGOW|格拉斯哥，英国(UNITED KINGDOM)欧洲|
+GLH|US|GREENVILLE|格林维尔，美国(USA)密西西比州，北美洲|
+GNB|FR|GRENOBLE|格勒诺布尔，法国(FRANCE)，欧洲|
+GND|GD|GRENADA|格林纳达，格林纳达(GRENADA)，加勒比海地区|
+GNV|US|GAINESVILLE     (GAINESVIL)|盖恩斯维尔，美国(USA)佛罗里达州，北美洲|
+GOA|IT|GENOA|热那亚，意大利(ITALY)，欧洲|
+GOJ|RU|NIZHNIY NOVGOROD     (NIZHNIY NOVGO)|下诺夫哥罗德，俄罗斯(RUSSIA)，乌拉尔山脉以西|
+GOQ|CN|GOLMUD|格尔木，中国(CHINA)青海省，亚洲|
+GOT|SE|GOTHENBURG|哥德堡，瑞典(SWEDEN)，欧洲|
+GPT|US|GULFPORT|格尔夫波特，美国(USA)密西西比州，北美洲|
+GPZ|US|GRAND RAPIDS     (GRAND RAP)|大急流，美国(USA)明尼苏达州，北美洲|
+GRB|US|GREEN BAY|格林贝，美国(USA)威斯康星州，北美洲|
+GRD|US|GREENWOOD|格林伍德，美国(USA)南卡罗来纳州，北美洲|
+GRJ|ZA|GEORGE|乔治，南非(SOUTH AFRICA)，非洲南部|
+GRQ|NL|GRONINGEN|格罗宁根，荷兰(NETHERLANDS)，欧洲|
+GRR|US|GRANDE RAPIDS     (GRANDE RAP)|大急流，美国(USA)密歇根州，北美洲|
+GRW|PT|GRACIOSA ISLAND|格拉西奥萨，葡萄牙亚速尔群岛(AZORES，PORTUGAL)欧洲|
+GRX|ES|GRANADA|格拉纳达，西班牙(SPAIN)，欧洲|
+GRZ|AT|GRAZ|格拉茨，奥大利(AUSTRIA)欧洲|
+GSO|US|GREENSBORO|格林斯伯勒，美国(USA)贝卡罗来纳州，北美洲|
+GSP|US|GREENVILLE|格林维尔，美国(USA)南卡罗来纳州，北美洲|
+GTT|AU|GEORGETOWN|乔治敦，澳大利亚(AUSTRALIA)昆士兰州，大洋州|
+GUA|GT|GUATEMALA CITY|危地马拉城，危地马拉(GUATEMALA)首都，中美洲|
+GUC|US|GUNNISON|甘尼森，美国(USA)科罗拉多州，北美洲|
+GUD|ML|GOUNDAM|贡达姆，马里(MALI)，西非|
+GUL|AU|GOULBURN|古尔本，澳大利亚(AUSTRALIA)，新南威尔士州，大洋洲|
+GUM|GU|GUAM|关岛(GUAM)，太平洋岛屿|
+GVA|CH|GENEVA|日内瓦，瑞士(SEITZERLAND)，欧洲|
+GVT|US|GREENVILLE|格林维尔，美国(USA)得克萨斯州，北美洲|
+GWO|US|GREENWOOD|格林伍德，美国(USA)密西西比州，北美洲|
+GYE|EC|GUAYAQUIL|瓜亚基尔，厄瓜多尔(ECUADOR)南美洲西北部|
+GYM|MX|GUAYMAS|瓜伊马斯，墨西哥(MEXICO)，中美洲|
+GYN|BR|GOIANIA|戈亚尼亚，巴西(BRAZIL)戈亚斯州，南美洲|
+HAA|NO|HASVIK|哈斯维克，挪威(NORWAY)，北欧|
+HAJ|DE|HANOVER|汉诺威，德国(GERMANY)，欧洲|
+HAK|CN|HAIKOU|海口，中国(CHINA)海南省，亚洲|
+HAM|DE|HAMBURG|汉堡，德国(GERMANY)，欧洲|
+HAN|VN|HANOI|河内，越南(VIETNAM)首都，亚洲|
+HAP|AU|LONG ISLAND     (LONG ISL)|长岛，澳大利亚(AUSTRIA)昆士兰州，北美洲|
+HAR|US|HARRISBURG|哈利斯堡，美国(USA)宾夕法尼亚州，北美洲|
+HAU|NO|HAUGESUND|海于格松，挪威(NORWAY)，北欧|
+HAV|CU|HAVANA|哈瓦那，古巴(CUBA)，首都，加勒比海地区|
+HBA|AU|HOBART|霍巴特，澳大利亚(AUSTRALIA)塔斯马尼亚洲，大洋洲|
+HDD|PK|HYDERABAD|海德拉巴，巴基斯坦(PAKISTAN)，南亚|
+HDY|TH|HAT YAI|合艾，泰国(THAILAND)，亚洲|
+HEI|DE|HEIDE/BUESUM|海德/布埃色姆，德国(GERMANY)，欧洲|
+HEK|CN|HEIHE|黑河，中国(CHINA)黑龙江省，亚洲|
+HEL|FI|HELSINKI|赫尔辛基，芬兰(FINLAND)首都，北欧|
+HER|GR|HERAKLION|伊拉克利翁，希腊(GREECE)，欧洲巴尔干半岛|
+HET|CN|HOHHOT|呼和浩特，中国(CHINA)内蒙古自治区，亚洲|
+HFD|US|HARTFORD|哈特福特，美国(USA)康涅狄格州，北美洲|
+HFE|CN|HEIFEI|合肥，中国(CHINA)安徽省，亚洲|
+HFT|NO|HAMMERFEST|哈默弗斯特，挪威(NORWAY)，北欧|
+HGH|CN|HANGZHOU|杭州，中国(CHINA)浙江省，亚洲|
+HGO|CI|KORHOGO|科霍戈，科特迪瓦(COTE D‘LOVOIRE)，西非|
+HIJ|JP|HIROSHIMA|广岛，日本(JAPAN)，亚洲|
+HKD|JP|HAKODATE|函馆，日本(JAPAN)，亚洲|
+HKG|HK|HONGKONG|香港，中国(CHINA)，香港特别行政区，亚洲|
+HKT|TH|PHUKET|普吉，泰国(THAILAND)，亚洲|
+HLD|CN|HAILAR|海拉尔，中国(CHINA)内蒙古自治区，亚洲|
+HLH|CN|ULANHOT|乌兰浩特，中国(CHINA)内蒙古自治区，亚洲|
+HLN|US|HELENA|赫勒纳，美国(USA)蒙大拿州，北美洲|
+HLT|AU|HAMILTON|哈密尔顿，澳大利亚(AUSTRALIA)，维多利亚州，大洋州|
+HLZ|NZ|HAMILTON|哈密尔顿，新西兰(NEW ZEALAND)，大洋洲|
+HME|DZ|HASSI MESSAOUD     (HASSI MESSAOU)|哈西迈斯欧德，阿尔及利亚(ALGERIA)，非洲西北部|
+HMO|MX|HERMOSILLO|埃莫西约，墨西哥(MEXICO)，中美洲|
+HNL|US|HONOLULU|火努鲁鲁(檀香山)，美国(USA)夏威夷州，太平洋岛屿|
+HOD|YE|HODEIDAH|荷台达，也门(YEMEN)，西亚(中东)|
+HOF|SA|HOFUF|胡富夫，沙特阿拉伯(SAUDI ARABIA)，西亚(中东)|
+HOH|AT|HOHENEMS|霍恩埃姆斯，奥大利(AUSTRIA)，欧洲中部|
+HOR|PT|HORTA|奥尔塔，葡萄牙(PORTUGAL)，欧洲|
+HOU|US|HOUSTON|休斯敦，美国(USA)得克萨斯州，北美洲|
+HRE|ZW|HARARE|哈拉雷，津巴布韦(ZIMBABWE)首都，非洲|
+HRG|EG|HURGHADA|胡哈塔，埃及(EGYPT)，非洲东北部|
+HRL|US|HARLINGEN|哈灵根，美国(USA)得克萨斯州，北美洲|
+HRM|DZ|HASSI R’MEL|哈西鲁迈勒，阿尔及利亚(ALGERIA)，非洲西北部|
+HSN|CN|ZHOUSHAN|舟山，中国(CHINA)浙江省，亚洲|
+HSV|US|HUNTSVILLE|亨茨维尔，美国(USA)阿拉巴马州，北美洲|
+HSZ|TW|HSINGCHU|新竹，中国(CHINA)台湾省，亚洲|
+HTI|AU|HAMILTON ISLAND    (HAMILTON I)|哈密尔顿岛，澳大利亚(AUSTRALIA)，昆士兰州|
+HTN|CN|HOTAN|和田，中国(CHINA)，新疆自治区，亚洲|
+HTS|US|ASHLAND|阿斯兰，美国(USA)肯塔基州，北美洲|
+HUN|TW|HUALIEN|华莲，中国(CHINA)台湾省，亚洲|
+HUQ|LY|HOUN|洪恩，利比亚(LIBYA)，非洲北部|
+HUY|GB|HUMBERSIDE|亨伯赛德，英国(UNITED KINGDOM)，欧洲|
+HUZ|CN|HUIZHOU|惠州，中国(CHINA)广东省，亚洲|
+HVG|NO|HONNINGSVAG|霍宁斯沃格，挪威(NORWAY)，北欧|
+HYD|IN|HYDERABAD|海德拉巴，印度(INDIA)，南亚|
+HYN|CN|HUANGYAN|黄岩，中国(CHINA)浙江省，亚洲|
+IAM|DZ|IN AMENAS|恩阿迈纳斯，阿尔及利亚(ALGERIA)，非洲西北部|
+IBZ|ES|IBIZA|伊维萨岛，西班牙(SPAIN)，欧洲|
+IDA|US|IDAHO FALLS     (IDAHO FAL)|爱达荷福尔斯，美国(USA)爱达荷州，北美洲|
+IEV|UA|KIEV|基辅，乌克兰(UKRAINE)首都，非洲|
+IGR|AR|IGUAZU|伊瓜苏，阿根廷(ARGENTINA)米西奥内省，南美洲|
+IGU|BR|IGUASSU FALLS     (IGUASSU FA)|伊瓜斯福尔斯，巴西(BRAZIL)巴拉那州，南美洲|
+IKT|XU|IRKUTSK|依尔库茨克，俄罗斯(RUSSIA)东部|
+ILE|US|KILLEEN|基林，美国(USA)得克萨斯州，北美洲|
+ILG|US|WILMINGTON|威尔明顿，美国(USA)特拉华州，北美洲|
+ILM|US|WILMINGTON|威尔明顿，美国(USA)北卡罗来纳州，北美洲|
+ILN|US|WILMINGTON|威尔明顿，美国(USA)俄亥俄州，北美洲|
+INC|CN|YINCHUAN|银川，中国(CHINA)宁夏自治区，亚洲|
+IND|US|INDIANAPOLIS     (INDIANAPO)|印第安纳波利斯，美国(USA)印第安纳州，北美洲|
+INF|DZ|IN GUEZZAM|因盖扎姆，阿尔及利亚(ALGERIA)，非洲西北部|
+INI|YU|NIS|尼什，塞尔维亚和黑山(SERBIA AND MONTENEGRO) 欧洲巴尔干半岛|
+INN|AT|INNSBRUCK|因斯布鲁克，奥地利(AUSTRIA)南部，欧洲|
+INV|GB|INVERNESS|因弗内斯，英国(UNITED KINGDOM)，欧洲|
+INZ|DZ|IN SALAH|因萨拉赫，阿尔及利亚(ALGERIA)，非洲西北部|
+IOA|GR|IOANNINA|约阿尼纳，希腊(GREECE)，欧洲巴尔干半岛|
+IOM|GB|ISLE OF MAN|艾勒夫马恩，英国(UNITED KINGDOM)，欧洲|
+IPC|CL|EASTERN ISLAND|东部岛， 智利(CHILE)南美洲南部西海岸|
+IPH|MY|IPOH|怡保，马来西亚(MALAYSIA)，亚洲|
+IQM|CN|QIEMO|且未，中国(CHINA)新疆自治区，亚洲|
+IQN|CN|QINGYANG|庆阳，中国(CHINA)甘肃省，亚洲|
+IQQ|CL|IQUIQUE|伊基克，智利(CHILE)南美洲南部西岸|
+IQT|PE|IQUITOS|依基托斯，秘鲁(PERU)，南美洲|
+IRK|US|KIRKSVILLE|柯克斯维尔，美国(USA)密苏里州，北美洲|
+ISB|PK|ISLAMABAD|伊斯兰堡，巴基斯坦(PAKISTAN)，亚洲|
+ISP|US|ISLIP|艾斯利普，美国(USA)纽约州，北美洲|
+IST|TR|ISTANBUL|伊斯坦布尔，土耳其(TURKEY)，西北亚|
+IVL|FI|IVALO|伊瓦洛，芬兰(FINLAND)，北欧|
+IYK|US|INYOKERN|因约肯，美国(USA)加利福尼亚州，北美洲|
+IZM|TR|IZMIR|依兹密尔，土耳其(TURKEY)西北亚|
+IZO|JP|IZUMO|出云，日本(JAPAN)，亚洲|
+JAC|US|JACKSON|杰克逊，美国(USA)怀俄明州，北美洲|
+JAN|US|JACKSON|杰克逊，美国(USA)密西西比州，北美洲|
+JAX|US|JACKSONVILLE     (JACKSONVIL)|杰克逊约尔，美国(USA)佛罗里达州，北美洲|
+JDZ|CN|JINGDEZHEN|景德镇，中国(CHINA)江西省，亚洲|
+JED|SA|JEDDAH|吉达，沙特阿拉伯(SAUDI ARABIA)西亚(中东)|
+JER|GB|JERSEY|泽西，英国(UNITED KINGDOM)，欧洲|
+JGN|CN|JIAYUGUAN|嘉峪关，中国(CHINA)甘肃省，亚洲|
+JHB|MY|JOHOR BAHRU|新山(柔佛巴鲁)，马来西亚(MALAYSIA)，亚洲|
+JHC|US|GARDEN CITY     (GARDEN CI T)|加登城，美国(USA)纽约州，北美洲|
+JHG|CN|JINGHONG|景洪，中国(CHINA)云南省，亚洲|
+JHJ|CN|XISHUANGBANNA|西双版纳，中国(CHINA)云南省，亚洲|
+JHW|US|JAMESTOWN|詹姆斯敦，美国(USA)纽约州，北美洲|
+JIB|DJ|DJIBOUTI|吉布提，吉布提(DJIBOUTI)首都，非洲|
+JIL|CN|JILIN|吉林，中国(CHINA)吉林省，亚洲|
+JIU|CN|JIUJING|九江，中国(CHINA)江西省，亚洲|
+JJN|CN|JINJIANG|晋江，中国(CHINA)福建省，亚洲|
+JKG|SE|JONKOPING|延雪平，瑞典(SWEDEN)，北欧|
+JKH|GR|CHIOS|希俄斯，希腊(GREECE)欧洲|
+JKT|ID|JAKARTA|雃加达，印度尼西亚(INDONESIA)亚洲|
+JLN|US|JOPLIN|乔普林，美国(USA)密苏里州，北美洲|
+JMS|US|JAMESTOWN|詹姆斯敦，美国(USA)北达科他州，北美洲|
+JMU|CN|JIAMUSI|佳木斯，中国(CHINA)黑龙江省，亚洲|
+JNB|ZA|JOHANNESBURG|约翰内斯堡，南非(SOUTH AFRICA)，非洲南部|
+JNG|CN|JINING|集宁，中国(CHINA)内蒙古自治区，亚洲|
+JNU|US|JUNEAU|朱诺，美国(USA)阿拉斯加州，北美洲|
+JNZ|CN|JINZHOU|锦州，中国(CHINA)辽宁省，亚洲|
+JOE|FI|JOENSUU|约恩苏，芬兰(FILAND)北欧|
+JOG|ID|YOGYAKARTA|日惹，印度尼西亚(INDONESIA)亚洲|
+JOI|BR|JOINVILLE|若因维利，巴西(BRAZIL)圣卡塔林纳州，南美洲|
+JPA|BR|JOA PESSOA|若昂佩索阿，巴西(BRAZIL)帕拉伊巴州，南美洲|
+JRO|TZ|KILIMANJARO|乞力马扎罗，坦桑尼亚(TANZANIA)非洲|
+JRS| |JERUSALEM|耶路萨冷，西亚(中东)|
+JTR|GR|THIRA|锡拉，希腊(GREECE)欧洲巴尔干半岛|
+JUB|SD|JUBA|朱巴，苏丹(SUDAN)，非洲东北部|
+JUZ|CN|QUZHOU|忂州，中国(CHINA)浙江省，亚洲|
+JXN|US|JACKSON|杰克逊，美国(USA)密歇根州，北美洲|
+KAA|ZM|KASAMA|卡萨巴，赞比亚(ZAMBIA)，非洲|
+KAD|NG|KADUNA|卡杜那，尼日利亚(NJGERIA)，西非)|
+KAJ|FI|KAJAANI|卡亚尼，芬兰(FINLAND)北欧|
+KAN|NG|KANO|卡诺，尼日利亚(NIGERIA)非洲|
+KAO|FI|KUUSAMO|库萨莫，芬兰(FILAND)，北欧|
+KBL|AF|KABUL|喀布卡，阿富汗(AFGHANISTAN)首都，亚洲|
+KBR|MY|KOTA BHARU|哥打巴鲁，马来西亚(MALAYSIA)，亚洲|
+KCA|CN|KUQA|库车，中国(CHINA)新疆自治区，亚洲|
+KCH|MY|KUCHING|古晋，马来西亚(MALAYSIA)，亚洲|
+KCZ|JP|KOCHI|高知，日本(JAPAN)，亚洲|
+KDA|SN|KOLDA|科尔达，塞内加尔(SENGAL)，西非|
+KDH|AF|KANDAHAR|坎大哈，阿富汗(AFGHANISTAN)亚洲|
+KDN|GA|NDENDE|恩代恩代，加蓬(GABON)，非洲中西部|
+KED|MR|KEADI|基迪，毛里塔尼亚(MAURITANIA)，西非|
+KEM|FI|KEMI/TORNIO|凯米/托尔尼奥，芬兰(FINLAND)，北欧|
+KGD|RU|KALININGRAD|加里宁格勒，俄罗斯(RUSSIA)，欧洲|
+KGJ|MW|KARONGA|卡龙加，马拉维(MALAWI)，非洲东南部|
+KGL|RW|KIGALI|基加利，卢旺达(RWANDA)首都，非洲|
+KGS|GR|KOS|科斯，希腊(GREECE)，欧洲巴尔干半岛|
+KHG|CN|KASHI|喀什，中国(CHINA)，新疆自治区，亚洲|
+KHH|TW|KAO HSIUNG|高雄，中国(CHINA)台湾省，亚洲|
+KHI|PK|KARACHI|卡拉奇，马基斯坦(PAKISTAN)，亚洲|
+KHN|CN|NANCHANG|南昌，中国(CHINA)江西省，亚洲|
+KHV|XU|KHABAROVSK|哈巴罗夫斯克(伯力)俄罗斯(RUSSIA)，亚洲部分|
+KID|SE|KRISTIANSTAD|克里斯蒂斯塔德，瑞典(SWEDEN)，北欧|
+KIJ|JP|NIIGATA|新泻，日本(JAPAN)，亚洲|
+KIM|ZA|KIMBERLERY|金伯利，南非(SOUTH AFRICA)非洲南部|
+KIN|JM|KINGSTON|金斯敦，牙买加(JAMAICA)首都，加勒比海地区|
+KIS|KE|KISUMU|基苏木，肯尼亚(KENYA)东非|
+KIV|MD|KISHINEV     (CHISINAU)|基什尼奥夫(基希讷乌)，摩尔多瓦(MOLDOVA)首都，欧洲|
+KIW|ZM|KITWE|基特韦，赞比亚(ZAMBIA)非洲|
+KKN|NO|KIRKENES|希尔克内斯，挪威(NORWAY)，北欧|
+KLA|UG|KAMPALA|坎帕拉，乌干达(UGANDA)首都，非洲|
+KLB|ZM|KALABO|卡拉博，赞比亚(ZAMBIA)非洲|
+KLE|CM|KAELE|卡埃莱，喀麦隆(CAMEROON)，非洲中西部|
+KLR|SE|KALMAR|卡尔马，瑞典(SWEDEN)，北欧|
+KLU|AT|KLAGENFURT|克拉银福，奥地利(AUSTRIA)，欧洲中部|
+KLV|CZ|KARLOVY VARY|卡罗维发利，捷克(CZECH REPUBLIC)，欧洲中部|
+KLX|GR|KALAMATA|卡拉马塔，希腊(GREECE)，欧洲巴尔干半岛|
+KMF|PG|KAMINA|卡米纳，巴布亚新几内亚(PAPUA NEW GUINEA)，大洋洲|
+KMG|CN|KUNMING|昆明，中国(CHINA)，云南省，亚洲|
+KMI|JP|MIYAZAKI|宫崎，日本(JAPAN)，亚洲|
+KMJ|JP|KUMAMOTO|熊本，日本(JAPAN)，亚洲|
+KMN|CD|KAMINA|卡米纳，刚果(金)(CONGO)(KINSHASA)非洲中部(ZAIRE)扎伊尔|
+KMQ|JP|KOMATSU|小松，日本(JAPAN)，亚洲|
+KMS|GH|KUMASI|库马西，加纳(GHANA)，西非|
+KMZ|ZM|KAOMA|卡奥马，赞比亚(ZAMBIA)，非洲|
+KNN|GN|KANKAN|康康，几内亚(GUINEA)，西非|
+KNU|IN|KANPUR|坎普尔，印度(INDIA)亚洲|
+KOA|US|KONA|科纳，美国(USA)夏威夷州，太平洋岛屿|
+KOE|TL|KUPANG|古邦，东帝汶(EAST TIMOR)，亚洲|
+KOI|GB|KIRKWALL|柯克沃尔，英国(UNITED KINGDOM)，欧洲|
+KOJ|JP|KAGOSHIMA|鹿尔岛，日本(JAPAN)，亚洲|
+KOK|FI|KOKKOLA/PIETA|科科拉，芬兰(FINLAND)，北欧|
+KOU|GA|KOULAMOUTOU|库拉穆图，加蓬(GABON)，非洲中西部|
+KOW|CN|GANZHOU|赣州，中国(CHINA)江西省，亚洲|
+KRK|PL|KRAKOW|克拉科夫，波兰(POLAND)，欧洲|
+KRL|CN|KORLA|库尔勒，中国(CHINA)新疆自治区，亚洲|
+KRN|SE|KIRUNA|基律纳，瑞典(SWEDEN)，北欧|
+KRS|NO|KRISTIANSAND|克里斯蒂安桑，挪威(NORWAY)，北欧|
+KRT|SD|KHARTOUM|喀土穆，苏丹(SUDAN)首都，非洲|
+KRY|CN|KARAMAY|克拉玛依，中国(CHINA)新疆自治区，亚洲|
+KSC|SK|KOSICE|科希策，斯洛伐克(SLOVAKIA)，欧洲中部|
+KSD|SE|KARLSTAD|卡尔斯塔德，瑞典(SWEDEN)，北欧|
+KSI|GN|KISSIDOUGOU|基西杜古，几内亚(GUINEA)，西非|
+KSM|US|ST MARY‘S|圣马里斯，美国(USA)阿拉斯加州，北美洲|
+KSO|GR|KASTORIA|卡斯托里亚，希腊(GREECE)，欧洲巴尔干半岛|
+KTM|NP|KATHMANDU|加德满都，尼泊尔(NEPAL)首都，亚洲|
+KTT|FI|KITTILA|基蒂莱，芬兰(FINLAND)，北欧|
+KTW|PL|KATOWICE|卡托维兹，波兰(POLAND)，欧洲|
+KUA|MY|KUANTAN|关丹，马来西亚(MALAYSIA)，亚洲|
+KUD|MY|KUDAT|古达，马来西亚(MALAYSIA)，亚洲|
+KUF|RU|SAMARA|萨马拉，俄罗斯(RUSSIA)乌拉尔山脉以西|
+KUH|JP|KUSHIRO|钏路，日本(JAPAN)，亚洲|
+KUL|MY|KUALA LUMPUR|吉隆坡，马来西亚(MALAYSIA)，首都，亚洲|
+KUO|FI|KUOPIO|库奥皮奥，芬兰(FINLAND)，北欧|
+KVA|GR|KAVALA|卡瓦拉，希腊(GREECE)，欧洲巴尔半岛|
+KWE|CN|GUIYANG|贵阳，中国(CHINA)贵州省，亚洲|
+KWI|KW|KUWAIT|科维特，科维特(KUWAIT)首都，西亚(中东)|
+KWL|CN|GUILIN|桂林，中国(CHINA)广西省，亚洲|
+KYD|TW|ORCHID ISLAND|兰岛，中国(CHINA)台湾省，亚洲|
+KYE|LB|TRIPOLI|的黎波里，黎巴嫩(LEBANON)，西亚(中东)|
+KYS|ML|KAYES|卡伊，马里(MALI)西非|
+KZN|RU|KAZAN|喀山，俄罗斯(RUSSIA)，欧洲|
+LAD|AO|LUANDA|罗安达，安哥拉(ANGOLA)，非洲西南部|
+LAF|US|LAFAYETTE|拉斐特，美国(USA)印第安纳州，北美洲|
+LAN|US|LANSING|兰辛，美国(USA)密歇根州，北美洲|
+LAP|MX|LA PAZ|拉巴斯，墨西哥(MEXICO)，中美洲|
+LAQ|LY|BEIDA|贝达，利比亚(LIBYA)，非洲北部|
+LAS|US|LAS VEGAS|拉斯维加斯，美国(USA)内达华州，北美洲|
+LAW|US|LAWTON|劳顿，美国(USA)俄克拉斯何马州，北美洲|
+LAX|US|LOS ANGELES     (LOS ANGEL)|洛杉矶，美国(U.S.A)加利福尼亚州，北美洲|
+LBA|GB|LEEDS|利兹，英国(UNITED KINGDOM)，欧洲|
+LBB|US|LUBBOCK|拉伯克，美国(U.S.A)得克萨斯州，北美洲|
+LBE|US|LATROBE|拉斯罗布，美国(USA)宾夕法尼亚州，北美洲|
+LBQ|GA|LAMBARENE|兰巴雷内，加蓬(GABON)，非洲中西部|
+LBU|MY|LABUAN|拉布安，马来西亚(MALAYSIA)，亚洲|
+LBV|GA|LIBREVILLE|利伯维尔，加篷(GABON)首都，非洲|
+LCA|CY|LARNACA|拉纳卡，塞浦路斯(CYPRUS)西亚|
+LCG|ES|LA CORUNA|拉科鲁尼亚，西班牙(SPAIN)，欧洲|
+LCH|US|LAKE CHARLES     (LAKE CHARL)|莱克查尔斯，美国(USA)路易斯安那州，北美洲|
+LDE|FR|LOURDES/TARBE|卢尔德/塔比，法国(FRANCE)，欧洲|
+LDI|TZ|LINDI|林迪，坦桑尼亚(TANZANIA)，东非|
+LDU|MY|LAHAD DATU|拉哈达图，马来西亚(MALAYSIA)，亚洲|
+LDW|AU|LANSDOWNE|兰道恩，澳大利亚(AUSTRALIA)西澳大利亚州，大洋洲|
+LEB|US|HANOVER|汉诺威，美国(USA)新罕布什尔州，北美洲|
+LEH|FR|LE HAVRE|勒阿弗尔，法国(FRANCE)，欧洲|
+LEI|ES|ALMERIA|阿尔梅里亚，西班牙(SPAIN)，欧洲|
+LEJ|DE|LEIPZIG|莱比锡，德国(GERMANY)，欧洲|
+LEW|US|AUBURN|奥本，美国(USA)缅因州，北美洲|
+LEW|US|LEWISTON|刘易斯顿，美国(USA)缅因州，北美洲|
+LEX|US|LEXINGTON|列克星敦，美国(USA)肯塔基州，北美洲|
+LFT|US|LAFAYETTE|拉斐特，美国(USA)路易斯安那州，北美洲|
+LFW|TG|LOME|洛美，多哥(TOGO)首都，非洲|
+LGB|US|LONG BEACH|长滩，美国(USA)加利福尼亚州，北美洲|
+LGG|BE|LIEGE|列日，比利时(BELGIUM)，欧洲|
+LGK|MY|LANGKAWI|凌家卫，马亚西亚(MALAYSIA)，亚洲|
+LHE|PK|LAHORE|拉合尔，巴基斯坦(PAKISTAN)，亚洲|
+LHW|CN|LANZHOU|兰州，中国(CHINA)，甘肃省，亚洲|
+LIG|FR|LIMOGES|利摩日，法国(FRANCE)，欧洲|
+LIH|US|KAUAI ISLAND     (KAUAI IS)|考爱岛，美国(USA)夏威夷州，大平洋岛屿|
+LIL|FR|LILLE|里尔，法国(FRANCE)欧洲|
+LIM|PE|LIMA|利马，秘鲁(PERU)首都，南美洲|
+LIS|PT|LISBON|里斯本，葡萄牙(PORTUGAL)首都，欧洲|
+LIT|US|LITTLE ROCK      (LITTLE RO)|小石城，美国(USA)阿肯色州，北美洲|
+LJG|CN|LIJIANG CITY|丽江，中国(CHINA)云南省，亚洲|
+LJU|SI|LJUBLJANA|卢布尔雃那，斯洛文尼亚(SLOVENIA)，欧洲|
+LKL|NO|LAKSELV|拉克塞尔夫，挪威(NORWAY)，北欧|
+LKN|NO|LEKNES|莱克内斯，挪威(NORWAY)，北欧|
+LLA|SE|LULEA|吕勒奥，瑞典(SWEDEN)，北欧|
+LLW|MW|LILONGWE|利隆圭，马拉维(MALAWI)首都，非洲|
+LMN|MY|LIMBANG|林梦，马来西亚(MALAYSIA)，亚洲|
+LNK|US|LINCOLN|林肯，美国(USA)内布拉斯加州，北美洲|
+LNS|US|LANCASTER|兰开斯特，美国(USA)宾夕法尼亚州，北美洲|
+LNZ|AT|LINZ|林兹，奥地利(AUSTRIA)，欧洲|
+LON|GB|LONDON|伦敦，英国(UNITED KINGDOM)，欧洲|
+LOS|NG|LAGOS|拉各斯，尼旦利亚(NIGERIA)，非洲|
+LOZ|US|LONDON|伦敦，美国(USA)肯塔基州，北美洲|
+LPB|BO|LA PAZ|拉巴斯，玻利维亚(BOLIVIA)，南美洲|
+LPL|GB|LIVERPOOL|利物浦，英国(UNITED KINGDOM)，欧洲|
+LPP|FI|LAPPEENRANTA|拉彭兰塔，芬兰(FINLAND)，北欧|
+LRD|US|LAREDO|拉雷多，美国(USA)得克萨斯州，北美洲|
+LRT|FR|LORIENT|洛里昂，法国(FRANCE)，欧洲|
+LSE|US|LA CROSSE|拉克罗斯，美国(USA)威斯康星州，北美洲|
+LSM|MY|LONG SEMADOH|隆塞马多，马来西亚(MALAYSIA)，亚洲|
+LSP|VE|LAS PIEDRAS|拉斯彼德拉斯，委内瑞拉(VENEZUELA)，南美洲|
+LSQ|CL|LOS ANGELES|洛斯安赫莱斯，智利(CHILE)，南美洲|
+LSU|MY|LONG SUKANG|隆斯康，马来西亚(MALAYSIA)，亚洲|
+LTB|AU|LATROBE|拉斯罗布，澳大利亚(AUSTRALIA)塔斯马尼亚州，大洋洲|
+LTD|LY|GHADAMES|克达米斯，利比亚(LIBYA)，非洲西北部|
+LTL|GA|LASTOURVILLE|拉斯图维尔，加蓬(GABON)，非洲中西部|
+LTO|MX|LORETO|洛雷托，墨西哥(MEXICO)，中美洲|
+LUM|CN|MANGSHI|芒市，中国(CHINA)，云南省，亚洲|
+LUN|ZM|LUSAKA|卢萨卡，赞比亚(ZAMBIA)，非洲|
+LUX|LU|LUXEMBOURG|卢森堡，卢森堡(LUXEMBOURG)首都，欧洲|
+LVI|ZM|LIVINGSTONE|利文斯顿，赞比亚(ZAMBIA)，非洲|
+LWS|US|LEWISTON|刘易斯顿，美国(USA)爱达荷州，北美洲|
+LWY|MY|LAWAS|拉瓦斯，马来西亚(MALAYSIA)，亚洲|
+LXA|CN|LHASA|拉萨，中国(CHINA)西藏自治区，亚洲|
+LXR|EG|LUXOR|卢克索，埃及(EGYPT)，非洲东北部|
+LXS|GR|LEMNOS|莱姆诺斯，希腊(GREECE)，欧洲巴尔干半岛|
+LXU|ZM|LUKULU|卢库库，赞比亚(ZAMBIA)，非洲|
+LYA|CN|LUOYANG|洛阳，中国(CHINA)河南省，亚洲|
+LYG|CN|LIANYUNGANG|连云港，中国(CHINA)江苏省，亚洲|
+LYH|US|LYNCHBURG|林奇堡，美国(USA)弗吉尼亚州，北美洲|
+LYI|CN|LINYI|临沂，中国(CHINA)，山东省，亚洲|
+LYP|PK|FAISALABAD|费萨拉巴德，巴基斯坦(PAKISTAN)亚洲|
+LYS|FR|LYON|里昂，法国(FRANCE)，欧洲|
+LYU|US|ELY|伊利，美国(USA)明苏里达州，北美洲|
+LZH|CN|LIUZHOU|柳州，中国(CHINA)广西省，亚洲|
+LZO|CN|LUZHOU|泸州，中国(CHINA)四川省，亚洲|
+MAA|IN|CHENNAI|金奈，印度(INDIA)亚洲|
+MAD|ES|MADRID|马德里，西班牙(SPAIN)首都，欧洲|
+MAF|US|MIDLAND|米德兰，美国(USA)德克萨斯州，北美洲|
+MAF|US|ODESSA|敖德萨，美国(USA)得克萨斯州，北美洲|
+MAH|ES|MENORCA|梅诺卡，西班牙(SPAIN)，欧洲|
+MAM|MX|MATAMOROS|马塔莫罗斯，墨西哥(MEXICO)，中美洲|
+MAN|GB|MANCHESTER|曼彻斯特，英国(UNITED KINGDOM)，欧洲|
+MAO|BR|MANAUS|马瑙斯，巴西(BRAZIL)亚马孙州，南美洲|
+MAR|VE|MARACAIBO|马拉开波，委内瑞拉(VENEZUELA)，南美洲|
+MAX|SN|MATAM|马塔姆，塞内加尔(SENEGAL)，西非|
+MAZ|PR|MAYAGUEZ|马亚圭斯，波多黎各(PUETO RICO)，加勒比海地区|
+MBA|KE|MOMBASA|蒙巴萨，肯尼亚(KENYA)非洲|
+MBR|MR|MBOUT|姆布特，毛里塔尼亚(MAURITANIA)，西非|
+MBS|US|MIDLAND|米德兰，美国(USA)密歇根州，北美洲|
+MBS|US|SAGINAW|萨吉诺，美国(USA)密歇根州，北美洲|
+MBX|SI|MARIBOR|马里博，斯洛文尼亚(SLOVENIA)，欧洲|
+MCN|US|MACON|梅肯，美国(USA)佐治亚州，北美洲|
+MCT|OM|MUSCAT|马斯喀特，阿曼(OMAN)首都，西亚(中东)|
+MCZ|BR|MACEIO|马塞约，巴西(BRAZIL)阿拉戈斯州，南美洲|
+MDE|CO|MEDELLIN|麦德林，哥伦比亚(COLOMBIA)，南美洲西北部|
+MDF|US|MEDFORD|麦德福，美国(USA)威斯康星州，北美洲|
+MDG|CN|MUDANJIANG|牡丹江，中国(CHINA)黑龙江省，亚洲|
+MDJ|US|MADRAS|马德拉斯，美国(USA)俄勒冈州，北美洲|
+MDU|PG|MENDI|门迪，巴布亚新几内亚(PAPUA NEW GUINEA)，大洋洲|
+MDV|GA|MEDOUNEU|梅杜纳，加蓬(GABON)，非洲|
+MDZ|AR|MENDOZA|门多萨，阿根廷(ARGENTINA)门多萨省，南美洲|
+MED|SA|MADINAH|麦地那，沙特阿拉伯(SAUDI ARABIA)，西亚(中东)|
+MEH|NO|MEHAMN|梅港，挪威(NORWAY)，北欧|
+MEL|AU|MELBOURNE|墨尔本，澳大利亚(AUSTRALIA)维多利亚州，大洋洲|
+MEM|US|MEMPHIS|孟菲斯，美国(USA)田纳西州，北美洲|
+MES|ID|MEDAN|面兰，印度尼西亚(INDONESIA)，亚洲|
+MEX|MX|MEXICO CITY|墨西哥城，墨西哥(MEXICO)首都，中美洲|
+MFA|TZ|MAFIA|马菲亚，坦桑尼亚(TANZANIA)，东非|
+MFE|US|MCALLEN|莫阿莱恩，美国(USA)得克萨斯州，北美洲|
+MFF|GA|MOANDA|莫安达，加蓬(GABON)，西非|
+MFM|MO|MACAU|澳门，中国(CHINA)澳门特别行政区，亚洲|
+MFQ|NE|MARADI|马拉迪，尼日尔(NIGER)，西非|
+MFR|US|MEDFORD|麦德福，美国(USA)俄勒冈州，北美洲|
+MFU|ZM|MFUWE|姆福韦，赞比亚(ZAMBIA)，非洲|
+MGA|NI|MANAGUA|马那瓜，尼加拉瓜(NICARAGUA)首都，中美洲|
+MGM|US|MONTGOMERY|蒙哥马利，美国(USA)阿拉巴马州，北美洲|
+MGQ|SO|MOGADISHU|摩加迪沙，索马里(SOMALIA)首都，非洲|
+MGV|AU|MARGARET RIVER|玛格丽特里佛，澳大利亚(AUSTRALIA)，西澳大利亚州，大洋洲|
+MGX|GA|MOABI|莫阿比，加蓬(GABON)，非洲中西部|
+MHE|US|MITCHELL|米切尔，美国(USA)南达科他州，北美洲|
+MHQ|FI|MARIEHAMN|马丽港，芬兰(FINLAND)，北欧|
+MHT|US|MANCHESTER|曼彻斯特，美国(USA)新罕布什尔州，北美洲|
+MIA|US|MIAMI|迈阿密，美国(USA)佛罗里达州，北美洲|
+MID|MX|MERIDA|梅里达，墨西哥(MEXICO)，中美洲|
+MIG|CN|MIANYANG|绵阳，中国(CHINA)四川省，亚洲|
+MIK|FI|MIKKELI|米凯利，芬兰(FINLAND)，北欧|
+MIL|IT|MILAN|米兰，意大利(ITALY)，欧洲|
+MJC|CI|MAN|马恩，科特邮瓦(COTE D‘LVOIRE)，西非|
+MJF|NO|MOSJOEN|莫舍恩，挪威(NORWAY)，北欧|
+MJL|GA|MOUILA|穆伊拉，加蓬(GABON)，非洲|
+MJN|MG|MAJUNGA|马任加，马达加斯加(MADAGASCAR)，非洲东部岛屿|
+MJQ|US|JACKSON|杰克逊，美国(USA)明尼苏达州，北美洲|
+MJT|GR|MYTILENE|米蒂利尼，希腊(GREECE)，欧洲巴尔干半岛|
+MJV|ES|MURCIA|穆尔西亚，西班牙(SPAIN)，欧洲|
+MKB|GA|MEKAMBO|梅坎博，加蓬(GABON)，非洲|
+MKC|US|KANSAS CITY     (KANSAS CIT)|堪萨斯城，美国(USA)密苏里州，北美洲|
+MKE|US|MILWAUKEE|密尔沃基，美国(USA)威斯康里州，北美洲|
+MKG|US|MUSKEGON|马斯基根，美国(USA)密歇根州，北美洲|
+MKL|US|JACKSON|杰克逊，美国(USA)田纳西州，北美洲|
+MKU|GA|MAKOKOU|马科库，加蓬(GABON)，非洲中西部|
+MLA|MT|MALTA|马耳他，马耳他(MALTA)，欧洲|
+MLB|US|MELBOURNE|墨尔本，美国(USA)佛罗里达州，北美洲|
+MLH|FR|MULHOUSE|米卢斯，法国(FRANCE)，欧洲|
+MLI|US|MOLINE|莫林，美国(USA)伊利诺伊州，北美洲|
+MLL|US|MARSHALL|马绍尔，美国(USA)阿拉斯加州州，北美洲|
+MLU|US|MONROE|门罗，美国(USA)路易斯安那州，北美洲|
+MLW|LR|MONROVIA|蒙罗维亚，利比里亚(LIBERIA)首都，非洲|
+MMA|SE|MALMO|马尔默，瑞典(SWEDEN)，北欧|
+MME|GB|TEESSIDE|蒂赛德，英国(UNITED KINGDOM)，欧洲|
+MML|US|MARSHALL|马绍尔，美国(USA)明尼苏达州，北美洲|
+MMQ|ZM|MBALA|姆巴拉，赞比亚(ZAMBIA)，非洲|
+MNB|CD|MOANDA|莫安达，刚果(金)(CONGO)(KINSHASA)，非洲中西部(扎伊尔ZAIRE)|
+MNL|PH|MANILA|马尼拉，菲律宾(PHILIPPINES)首都，亚洲|
+MNR|ZM|MONGU|芒古，赞比亚(ZAMBIZ)，非洲|
+MNS|ZM|MANSA|曼萨，赞比亚(ZAMBIA)，非洲|
+MOB|US|MOBILE|莫比尔，阿拉巴马州，北美洲|
+MOT|US|MARQUETTE|马凯特，美国(USA)密歇根州，北美洲|
+MOW|RU|MOSCOW|莫斯科，俄罗斯(RUSSIA)首都，欧洲|
+MOY|CO|MONTERREY|蒙特雷，哥伦比亚(COLOMBIA)南美洲|
+MPL|FR|MONTPELLIER|蒙彼利埃，法国(FRANCE)，欧洲|
+MPM|MZ|MAPUTO|马普托，莫桑比克(MOZAMBIQUE)，非洲|
+MPV|US|MONTPELIER|蒙彼利埃，美国(USA)佛蒙特州，北美洲|
+MQN|NO|MOIRANA|摩城，挪威(NORWAY)，北欧|
+MQQ|TD|MOUNDOU|蒙杜，乍得(CHAD)，非洲|
+MQZ| |(MARGARET R)| |
+MRA|LY|MISURATA|米苏拉塔，利比亚(LIBVA)，非洲北部|
+MRD|VE|MERIDA|梅里达，委内瑞拉(VENEZUELA)，南美洲|
+MRS|FR|MARSEILLE|马赛，法国(FRANCE)，欧洲|
+MRU|MU|MAURITIUS|毛里求斯，毛里求斯(MAURITIUS)，非洲东部，印度洋西部|
+MSJ|JP|MISAWA|三泽，日本(JAPAN)，亚洲|
+MSL|US|FLORENCE|佛罗伦萨，美国(USA)阿拉巴马州，北美洲|
+MSL|US|SHEFFIELD|设菲尔德，美国(USA)阿拉巴马州，北美洲|
+MSN|US|MADISON|麦迪逊，美国(USA)维斯康星州，北美洲|
+MSP|US|MINNEAPOLIS     (MINNEAPOL)|明尼阿波利斯，美国(USA)明尼苏达州，北美洲|
+MSP|US|MINNEAPOLIS/STPAUL     (ST PAUL)|圣保罗，美国(USA)明尼苏达州，北美洲|
+MSQ|BY|MINSK|明斯克，白俄罗斯(BELARUS)首都，欧洲|
+MST|NL|MAASTRICHT|马斯特里赫特，荷兰(NETHERLANDS)，欧洲|
+MSU|LS|MASERU|马塞卢，莱索托(LESOTHO)首都，非洲|
+MTH|US|MARATHON|马拉松，美国(USA)佛罗里达州，北美洲|
+MTQ|AU|MITCHELL|米切尔，澳大利亚(AUSTRALIA)昆士兰州，大洋洲|
+MTT|MX|MINATITLAN|米纳蒂特兰，墨西哥(MEXICO)，中美洲|
+MTY|MX|MONTERREY|蒙特雷，墨西哥(MEXICO)，中美洲|
+MUB|BW|MAUN|马翁，博茨瓦纳(BOTSWANA)，非洲南部|
+MUC|DE|MUNICH|慕尼黑，德国(GERMANY)欧洲|
+MUN|VE|MATURIN|马图林，委内瑞拉(VENEZUELA)，南美洲|
+MUR|MY|MARUDI|马鲁迪，马来西亚(MALAYSIA)，亚洲|
+MUX|PK|MULTAN|木尔坦，巴基斯坦(PAKISTAN)，亚洲|
+MUZ|TZ|MUSOMA|穆索马，坦桑尼亚(TANZANIA)非洲|
+MVB|GA|FRANCEVILLE|费朗斯维尔，加蓬(GABON)非洲中西部|
+MVD|UY|MONTEVIDEO|蒙得维的亚，乌拉圭(URUGUAY)首都，南美洲|
+MVM|US|KAYENTA|凯恩塔，美国(USA)，亚利桑那州，北美洲|
+MVO|TD|MONGO|蒙戈，乍得(CHAD)，非洲|
+MVX|GA|MINVOUL|明武尔，加蓬(GABON)非洲中西部|
+MWY|US|NEW ORLEAN|新奥尔良，美国(USA)路易斯安那州，北美洲|
+MWZ|TZ|MWANZA|姆万扎，坦桑尼亚(TANZANIA)，非洲|
+MXL|MX|MEXICALI|墨西卡利，墨西哥(MEXICO)，中美洲|
+MXZ|CN|MEIXIAN|梅县，中国(CHINA)广东省，亚洲|
+MYB|GA|MAYOUMBA|马尤巴，加蓬(GABON)，非洲中西部|
+MYJ|JP|MATSUYAMA|松山，日本(JAPAN)，亚洲|
+MYR|US|MYRTLE BEACH     (MYRTLE BEA)|默特尔比奇，美国(USA)南卡罗来纳州，北美洲|
+MYW|TZ|MAWARA|姆特瓦拉，坦桑尼亚(TANZANIA)，非洲|
+MYY|MY|MIRI|米里，马来西亚(MALAYSIA)亚洲|
+MZC|GA|MITZIC|米齐克，加蓬(GABON)，非洲中西部|
+MZL|CO|MANIZALES|马尼萨莱斯，哥伦比亚(COLOMBIA)。南美西北部|
+MZO|CU|MANZANILLO|曼萨尼约，古巴(CUBA)，加勒比海地区|
+MZT|MX|MAZATLAN|马萨特兰，墨西哥(MEXICO)，中美洲|
+NAN|FJ|NADI|纳迪，斐济(FIJI)大洋洲太平洋岛屿|
+NAO|CN|NANCHONG|南充，中国(CHINA)四川省，亚洲|
+NAP|IT|NAPLES|那不勒斯，意大利(ITALY)，欧洲|
+NAS|BS|NASSAU|拿骚，巴哈马(BAHAMAS)，加勒比海地区|
+NAT|BR|NATAL|纳塔尔，巴西(BRAZIL)北里约格朗德州，南美洲|
+NBO|KE|NAIROBI|内罗比，肯尼亚(DENYA)首都，非洲|
+NCE|FR|NICE|尼斯，法国(FRANCE)，欧洲|
+NCH|TZ|NACHINGWEA|纳钦圭阿，坦桑尼亚(TANZANIA)，非洲|
+NCL|GB|NEWCASTLE|纽卡斯尔，英国(UNITED KINGDOM)欧洲|
+NCS|ZA|NEWCASTLE|纽卡斯尔，南非(SOUTH AFRICA)，非洲南部|
+NCY|FR|ANNECY|阿讷西，法国(FRANCE)欧洲|
+NDB|MR|NOUADHIBU|努瓦迪布角，毛里塔尼亚(MAURITANIA)，西非|
+NDG|CN|QIQIHAR|齐齐哈尔，中国(CHINA)黑龙江省，亚洲|
+NDJ|TD|NDJAMENA|恩贾梅纳，乍得(CHAD)首都，非洲|
+NDM|ET|MENDI|门迪，埃塞俄比亚(ETHIOPIA)，东非|
+NGB|CN|NINGBO|宁波，中国(CHINA)，亚洲|
+NGO|JP|NAGOYA|名古屋，日本(JAPAN)，亚洲|
+NGS|JP|NAGASAKI|长崎，日本(JAPAN)，亚洲|
+NIC|CY|NICOSIA|尼科西亚，塞浦路斯(CYPRUS)首都，亚洲|
+NIM|NE|NIAMEY|尼亚美，尼日尔(NIGER)首都，非洲|
+NIX|ML|NIORO|纽罗，马里(MALI)西非|
+NKC|MR|NOUAKCHOTT|努瓦克肖特，毛里塔尼亚(MAURITANIA)，首都，非洲|
+NKG|CN|NANJING|南京，中国(CHINA)江苏省，亚洲|
+NLA|ZM|NDOLA|恩多拉，赞比亚(ZAMBIA)，非洲东部|
+NLD|MX|NUEVO LAREDO|新拉雷多，墨西哥(MEXICO)，中美洲|
+NNB|SB|SANTA ANA|圣安娜，所罗门群岛(SOLOMON ISLANDS)，大洋洲太平洋岛屿|
+NNG|CN|NANNING|南宁，中国(CHINA)广西省，亚洲|
+NNY|CN|NANYANG|南洋，中国(CHINA)河南省，亚洲|
+NOU|NC|NOUMEA|努美阿，新喀里多尼亚(NEW CALEDONIA)，大洋洲(太平洋西南部)|
+NPT|US|NEWPORT|纽波特，美国(USA)罗德岛州，北美洲|
+NQT|GB|NOTTINGHAM|诺丁汉，英国(UNITED KINGDOM)，欧洲|
+NQY|GB|NEWQUAY|纽基，英国(UNITED KINGDOM)，欧洲|
+NRK|SE|NORRKOPING|诺尔雪平，瑞典(SWEDEN)，北欧|
+NRM|ML|NARA|纳良，马里(MALI)，西非|
+NTE|FR|NANTES|南特，法国(FRANCE)，欧洲|
+NTG|CN|NANTONG|南通，中国(CHINA)江苏省，亚洲|
+NTL|AU|NEWCASTLE|纽卡斯尔，澳大利亚(AUSTRALIA)新南威尔士洲，大洋洲|
+NUE|DE|NUREMBERG|纽伦堡，德国(GERMANY)，欧洲|
+NVK|NO|NARVIK|纳尔维克，挪威(NORWAY)，北欧|
+NVT|BR|NAVEGANTES|纳韦甘蒂斯，巴西(BRAZIL)圣卡塔林纳州，南美洲|
+NWI|GB|NORWICH|诺里奇，英国(UNITED KINGDOM)，欧洲|
+NYC|US|NEW YOUK|纽约，美国(USA)纽约州，北美洲|
+OAJ|US|JACKSONVILLE     (JACKSONVIL)|杰克逊维尔，美国(USA)贝卡罗来纳州，北美洲|
+OAK|US|OAKLAND|奥克兰，美国(USA)加利福尼亚州，北美洲|
+OAX|MX|OAXACA|瓦哈卡，墨西哥(MEXICO)，中美洲|
+OBO|JP|OBHIRO|带广，日本(JAPAN)，亚洲|
+ODB|ES|CORDOBA|科尔多瓦，西班牙(SPAIN)，欧洲|
+ODN|MY|LONG SERIDAN|隆塞里丹，马来西亚(MALAYSIA)，亚洲|
+ODS|UA|ODESSA|敖德萨，乌克兰(UKRAINE)，欧洲|
+OER|SE|ORNSKOLDSVIK|恩舍尔兹维克，瑞典(SWEDEN)，北欧|
+OFK|US|NORFOLK|诺福克，美国(USA)内布拉斯加州，北美洲|
+OGG|US|KAHULUI|卡胡卢伊，美国(USA)夏威夷州，太平洋岛屿|
+OGR|TD|BONGOR|邦戈尔，乍得(CHAD)，非洲|
+OGX|DZ|OUARGLA|瓦尔格拉，阿尔及利亚(ALGERS)，非洲西北部|
+OHD|MK|OHIRID|奥希里德，马其顿(MACEDONIA THE FORMER YUGOSLAV REP)欧洲巴尔半岛地区|
+OIL| | | |
+OIT|JP|OITA|大分，日本(JAPAN)，亚洲|
+OKA|JP|OKINAWA|冲绳，日本(JAPAN)，亚洲|
+OKC|US|OKLAHOMA CITY     (OKLAHOMA C)|俄克拉何马城，美国(USA)俄克拉何马州，北美洲|
+OKJ|JP|OKAYAMA|冈山，日本(JAPAN)，亚洲|
+OKN|GA|OKONDJA|奥孔贾，加蓬(GABON)，非洲中西部|
+OLB|IT|OLBIA|奥尔比亚，意大利(ITALY)，欧洲|
+OLM|US|OLYMPIA|奥林匹亚，美国(USA)华盛顿州，北美洲|
+OLU|US|COLUMBUS|哥伦布，美国(USA)内布拉斯加州，北美洲|
+OMA|US|OMAHA|奥马哈，美国(USA)内布拉斯加州，北美洲|
+OMB|GA|OMBOUE|翁布埃，加蓬(GABON)，非洲中西部|
+OMO|BA|MOSTAR|莫斯塔尔，波斯尼亚和墨塞哥维那(BOSINA AND HERZEGOVINA)，欧洲巴尔干半岛地区|
+ONP|US|NEWPORT|纽波特，美国(USA)俄勒冈州，北美洲|
+ONT|US|ONTARIO|安大略，美国(USA)加利福尼亚州，北美洲|
+OPO|PT|PORTO|波尔图，葡萄牙(PORTUGAL)欧洲|
+OPS|BR|SINOP|锡诺普，巴西(BRAZIL)，马托格罗索州，南美洲|
+ORA|AR|ORAN|奥兰，阿根廷(ARGENTINA)，萨尔塔省，南美洲|
+ORB|SE|OREBRO|厄勒布鲁，瑞典(SWEDEN)，北欧|
+ORH|US|WORCESTER|伍斯特，美国(USA)马萨诸塞州，北美洲|
+ORK|IE|CORK|科克，爱尔兰(IRELAND)欧洲|
+ORK|US|NORFOLK|诺福克，美国(USA)弗吉尼亚州，北美洲|
+ORL|US|ORLANDO|奥兰多，美国(USA)佛罗里达州，北美洲|
+ORN|DZ|ORAN|奥兰，阿尔及利亚(ALGERIA)非洲北部|
+OSA|JP|OSAKA|大阪，日本(JAPAN)，亚洲|
+OSD|SE|OSTERSUND|厄斯特松特，瑞典(SWEDEN)，北欧|
+OSI|HR|OSIJEK|奥西耶克，克罗地亚(CROATIA)， 欧洲巴尔干半岛|
+OSL|NO|OSLO|奥斯陆，挪威(NORWAY)首都，北欧|
+OSR|CZ|OSTRAVA|俄斯特拉发，捷克(CZECH REPUBLIC)，欧洲|
+OUA|BF|OUAGADOUGOU|瓦加杜古，布基纳法索(BURKINA FASO)首都，非洲|
+OUE|CG|OUESSO|韦索，刚果(布)，(CONGO)(BRAZZAVILLE)，非洲|
+OUL|FI|OULU|奥卢，芬兰(FINLAND)，北欧|
+OUR|CM|BATOURI|巴图里，喀麦隆(CAMEROON)，非洲中西部|
+OUZ|MR|ZOUERATE|组埃拉特，毛里塔尼亚(MAURITANIA)，西非|
+OVB|XU|NOVOSIBIRSK|新西伯利亚，俄罗斯(RUSSIA)，乌拉尔山脉以东|
+OVD|ES|ASTURIAS|阿斯图里亚斯，西班牙(SPAIN)，欧洲|
+OWB|US|OWENSBORO|欧文斯伯勒，美国(USA)肯塔基州，北美洲|
+OXB|GW|BISSAU|比绍，几内亚比绍(GUINEA-BISSAU)首都，非洲|
+OXR|US|OXNARD|奥克斯纳德，美国(USA)加利福尼亚州，北美洲|
+OYE|GA|OYEM|奥耶姆，加蓬(GABON)，非洲|
+PAR|FR|PARIS|巴黎，法国(FRANCE)，首都，欧洲|
+PAR|HT|PORT AU PPINCE     (PORT AU PRINC)|太子港，海地(HAITI)首都，加勒比海地区|
+PAY|MY|PAMOL|潘莫尔，马来西亚(MALAYSIA)，亚洲|
+PBC|MX|PUEBLA|普埃布拉，墨西哥(MEXICO)，中美洲|
+PBI|US|WEST PALM BEACH     (W PALM BE)|西棕榈滩，美国(USA)佛罗里达州，北美洲|
+PBL|VE|PUERTO CABELLO     (PUERTO CABELL)|卡贝略港，委内瑞拉(VENEZUELA)，南美洲|
+PBM|SR|PARAMARIBO|帕拉马里博，苏里南(SURINAME)首都，南美洲|
+PCT|US|PRINCETON|普林斯顿，美国(USA)新泽西州，北美洲|
+PDG|ID|PADANG|巴东，印度尼西亚(INDONESIA)，亚洲|
+PDL|PT|PONTA DELGADA|蓬塔德尔加达，葡萄牙(PORTUGAL)，欧洲|
+PDX|US|PORTLAND|波特兰，美国(USA)俄勒冈州，北美洲|
+PEI|CO|PEREIRA|佩里阿，哥伦比亚(COLOMBIA)，南美洲西北部|
+PEN|MY|PENANG|槟榔屿，马来西亚(MALAYSIA)，亚洲|
+PER|AU|PERTH|珀斯，澳大利亚(AUSTRALIA)西澳大利亚州，大洋洲|
+PEW|PK|PESHAWAR|白沙瓦，巴基斯坦(PAKISTAN)，亚洲|
+PFN|US|PANAMA CITY     (PANAMA CI)|巴拿马城，美国(USA)佛罗里达州，北美洲|
+PFO|CY|PAPHOS|帕福斯，塞浦路斯(CYPRUS)，西亚|
+PGF|FR|PERPIGNAN|佩皮尼昂，法国(FRANCE)，欧洲|
+PGV|US|GREENVILLE|格林维尔，美国(USA)北卡罗来纳州，北美洲|
+PHC|NG|PORT HARCOURT|哈科特港，尼日利亚(NIGERIA)西非|
+PHF|US|NEWPORT NEWS     (NEWPORT NE)|纽波特纽斯，美国(USA)弗吉尼亚州，北美洲|
+PHL|US|CAMDEN|卡姆登，美国(USA)新泽西州，北美洲|
+PHL|US|PHILADELPHIA     (PHILADELPH)|费城，美国(USA)宾夕法尼亚洲，北美洲|
+PHX|US|PHOENIX|菲尼克斯，美国(USA)亚利桑那州，北美洲|
+PIA|US|PEORIA|佩奥里阿，美国(USA)伊利诺伊州，北美洲|
+PIF|TW|PINGTUNG|屏东，中国(CHINA)台湾省，亚洲|
+PIR|US|PIERRE|皮尔，美国(USA)南达科他州，北美洲|
+PIT|US|PITTSBURGH|匹兹堡，美国(USA)宾夕法尼亚州，北美洲|
+PIX|PT|PICO ISALAND|皮库岛，葡萄牙(PORTUGAL)，欧洲|
+PKU|ID|PEKANBARU|北干巴鲁，印度尼西亚(INDONESIA)，亚洲|
+PLF|TD|PALA|帕拉，乍得(CHAD)，非洲|
+PLH|GB|PLYMOUTH|普利茅斯，英国(UNITED KINGDOM)，欧洲|
+PLM|ID|PALEMBANG|巨港(巴邻旁)，印度尼西亚(INDONESIA)，亚洲|
+PLZ|ZA|PORT ELIZABETH|伊丽莎白港，南非(SOUTH AFRICA)，非洲南部|
+PMA|TZ|PEMBA|奔巴，坦桑尼亚(TANZANIA)东非|
+PMI|ES|PALM MALLORCA     (PALM MAALORC)|帕勒姆马略卡，西班牙(SPAIN)，欧洲|
+PMO|IT|PALERMO|巴勒莫，意大利(ITALY)，欧洲|
+PNA|ES|PAMPLONA|潘普洛纳，西班牙(SPAIN)，欧洲|
+PNH|KH|PHNOM PENH|金边，柬埔赛(CAMBODIA)首都，亚洲|
+PNK|ID|PONTIANAK|坤甸，印度尼西亚(INDONESIA)，亚洲|
+PNL|IT|PANTELLERIA|潘泰莱里亚，意大利(ITALY)，欧洲|
+PNR|CG|POINTE NOIRE|黑角，刚果(布)(CONGO)(BRAZAVILLE)，非洲中西部|
+PNS|US|PENSACOLA|彭萨科拉，美国(USA)佛罗里达州，北美洲|
+POA|BR|PORTO ALEGRE     (PTO ALEGRE)|波多图阿莱格里，巴西(BRAZIL)南里约格朗德州，南美洲|
+POD|SN|PODOR|波尔多，塞内加尔(SENEGAL)，西非|
+POL|MZ|PEMBA|彭巴，莫桑比克(MOZAMBIQUE)，东非|
+POM|PG|PORT MORESBY|莫尔斯比港，巴布亚新同内亚(PAPUA NEW GUINEA)首都|
+POR|FI|PORI|波里，芬兰(FINALAND)，北欧|
+POS|TT|PORT OF SPAN|西班牙港，特立尼达和多巴哥(TRINIDAD AND TOBAGO)首都，加勒比海地区|
+POS|TT|TRINIDAD|特里尼达，特立尼达和多巴哥(TRINIDAD &amp; TOBAGO)，加勒比海地区|
+POZ|PL|POZNAM|波兹南，波兰(POLAND)，欧洲|
+PPT|PF|PAPEETE|帕皮提，法属波利尼西亚(FRENCH POLYNESIA)，大洋洲太平洋岛屿|
+PQI|US|PRESQUE ISLE     (PRESQUE IS)|普雷斯克艾尔，美国(USA)缅因州，北美洲|
+PRG|CZ|PRAGUE|布拉格，捷克(CZECH REPUBLIC)首都，欧洲|
+PRN|YU|PRISTINA|普里什蒂纳，南斯拉夫(YUGOSLAVIA)，欧洲巴尔干半岛|
+PRX|US|PARIS|巴黎，美国(USA)得克萨斯州，北美洲|
+PRY|ZA|PRETORIA|比勒陀利亚，南非(SOUTH AFRICA)首都，非洲南部|
+PSA|IT|PISA|比萨，意大利(ITALY)，欧洲|
+PSD|EG|PORT SAID|塞得港，埃及(EGYPT)，非洲东北部|
+PSE|PR|PONCE|蓬塞，波多黎各(PUERTO RICO)，加勒比海地区|
+PSP|US|PALM SPRINGS      (PALM SPRIN)|棕榈泉，美国(USA)加利福尼亚州，北美洲|
+PSR|IT|PESCARA|佩斯卡拉，意大利(ITALY)，欧洲|
+PTJ|AU|PORTLAND|波特兰，澳大利亚(AUSTRALIA)维多利亚州，大洋洲|
+PTP|GP|POINE A PITRE     (POINTE A PITR)|皮特尔角，瓜德罗普(GUADELOUPE)，加勒比海地区|
+PTY|PA|PANAMA CITY|巴拿马城，巴拿马(PANAMA)首都，中美洲|
+PUF|FR|PAU|波城，法国(FRANCE)，欧洲|
+PUQ|CL|PUNTA ARENAS|蓬塔阿雷纳斯，智利(CHILE)，南美洲|
+PUS|KR|BUSAN|釜山，韩国(KOREA，REPUBLIC OF)首都，亚洲|
+PUY|HR|PULA|普拉，克罗地亚(CROATIA)，欧洲巴尔干半岛|
+PVD|US|PROVIDENCE|普里维登斯，美国(USA)罗得岛州，北美洲|
+PVH|BR|PORTO VELHO     (PTO VELHO)|波多韦柳，巴西(BRAZIL)朗多尼亚州，南美洲|
+PVR|MX|PUERTO VALLARTA     (PUERTO VALLAR)|巴亚尔塔港，墨西哥(MEXICO)，中美洲|
+PWM|US|PORTLAND|波特兰，美国(USA)缅因州，北美洲|
+PXO|PT|PORTO SANTO     (PTO SANTO)|圣港，葡萄牙(PORTUGAL)马德拉(MADEIER)群岛|
+PYM|US|PLYMOUTH|普利茅斯，美国(USA)马萨诸塞州，北美洲|
+PZO|VE|PUERTO ORDAZ|奥尔达斯港，委内瑞拉(VENEZUELA)南美洲|
+PZU|SD|PORT SUDAN|苏丹港，苏丹(SUDAN)，非洲|
+PZY|SK|PIESTANY|皮耶什佳尼，斯洛伐克(SLOVAKIA)，欧洲|
+RAI|CV|PRAIA|普拉亚，佛得角(CAPE VERDE)首都，非洲|
+RAK|MA|MARRAKECH|马拉喀什，摩洛哥(MOROCCO)，非洲北部|
+RBA|MA|RABAT|拉巴特，摩洛哥(MOROCCO)首都，非洲|
+RBR|BR|RIO BRANCO|里奥布朗库，巴西(BRAZIL)阿可里州，南美洲|
+RCM|AU|RICHMOND|里士满，澳大利亚(AUSTRALIA)，昆士兰州，大洋洲|
+RDT|SN|RICHARD TOLL|里夏尔托勒，塞内加尔(SENEGAL)，西非|
+RDU|US|RALEIGH|罗列，美国(USA)北卡罗来纳州，北美洲|
+REC|BR|RECIFE|累西腓，巴西(BRAZIL)伯南布哥州，南美洲|
+REG|IT|REGGIO CALABRIA     (REGGIO CALAB)|雷焦卡拉布里亚，意大利(ITALY)，欧洲|
+REK|IS|REYKJAVIK|雷克雃未克，冰岛(ICELAND)首都，北欧|
+RET|NO|ROST|勒斯特，挪威(NORWAY)，北欧|
+REU|ES|REUS|雷乌斯，西班牙(SPAIN)，欧洲|
+REX|MX|REYNOSA|雷诺斯，墨西哥(MEXICO)，中美洲|
+RFD|US|ROCKFORD|罗克福德，美国(USA)伊利诺伊州，北美洲|
+RGA|AR|RIO GRANDE|里奥格兰德，阿根廷(ARGENTINA)米地岛区，南美洲|
+RGN|MM|YANGON|仰光，缅甸(MYANMAR)首都，亚洲|
+RHO|GR|RHODES|罗得，希腊(GREECE)，欧洲|
+RIA|BR|STA MARIA|斯塔玛利亚，巴西(BRAZIL)南里约格朗德州，南美洲|
+RIC|US|RICHMOND|里士满，美国(USA)弗吉尼亚州，北美洲|
+RIG|BR|RIO GRANDE|里奥格兰德，巴西(BRAZIL)南里约格兰德州，南美洲|
+RIO|BR|RIO DE JANEIRO     (R JANEIRO)|里约热内卢，巴西(BRAZIL)里约热内卢州，南美洲|
+RIX|LV|RIGA|里加，拉脱维亚(LATVIA)首都，欧洲|
+RKD|US|ROCKLAND|罗克兰，美国(USA)缅因州，北美洲|
+RKT|AE|RAS AL KHAIMAH|哈伊马角，阿拉伯酋长国(UNITED ARAB EMIRATES)，西亚(中东)|
+RMA|AU|ROMA|罗马，澳大利亚(AUSTRALIA)昆士兰州，大洋洲|
+RMI|IT|RMINI|里米尼，意大利(ITALY)，欧洲|
+RNB|SE|RONNEBY|龙讷比，瑞典(SWEDEN)，北欧|
+RNN|DK|BORNHOLM|博恩霍尔姆，丹麦(DENMARK)，北欧|
+RNO|US|RENO|里诺，美国(USA)内华达州，北美洲|
+ROC|US|BOCHESTER|罗切斯特，美国(USA)纽约州州，北美洲|
+ROM|IT|ROME|罗马，意大利(ITALY)首都，欧洲|
+ROS|AR|ROSARIO|罗萨里奥，阿根廷(ARGENTINA)圣非省，南美洲|
+RSA|AR|SANTA ROSA|圣罗莎，阿根廷(ARENTINA)拉潘帕省，南美洲|
+RSD|BS|ROCK SOUND|罗克桑德，巴哈马(BAHAMAS)，加勒比海地区|
+RSJ|US|ROSARIO|罗萨里奥，美国(USA)华盛顿州，北美洲|
+RST|US|ROCHESTER|罗切斯特，美国(USA)明尼苏达州，北美洲|
+RTM|NL|ROTTERDAM|鹿特丹，荷兰(NETHERLANDS)，欧洲|
+RUH|SA|RIYADH|利雃得，沙特阿拉伯(SAUDI ARABIA)首都，西亚(中东)|
+RUN|RE|ST DENIS|圣丹尼斯，留尼斯(REUNION)，非洲印度洋岛屿|
+RVN|FI|ROVANIEMI|罗瓦涅米，芬兰(FINLAND)，北欧|
+RWP|PK|RAWALPINDI|拉瓦尔品第，巴基斯坦(PAKISTAN)，亚洲|
+RZA|AR|SANTA CRUZ|圣克鲁斯，阿根廷(ARGENTINA)圣克鲁斯省，南美洲|
+RZE|PL|RZESZOW|热舒夫，波兰(POLAND)，欧洲|
+RZZ|US|ROANOKE RAPIDS     (ROANOKE RA)|罗阿诺克拉皮兹，美国(USA)明尼苏达州，北美洲|
+SAC|US|SACRAMENTO|萨克拉门托，美国(USA)，加利福尼亚州，北美洲|
+SAF|US|SANTA FE|圣菲，美国(USA)新墨西哥州，北美洲|
+SAH|YE|SANAA|萨那，也门(YEMEN)首都，西亚(中东)|
+SAL|SV|SAN SALVADOR|圣萨尔瓦多，萨尔瓦多(EL SALVADOR)首都，中美洲|
+SAN|US|SAN DIEGO|圣迭哥，美国(USA)加利福尼亚洲，北美洲|
+SAO|BR|SAO PAULO|圣保罗，巴西(BRAZIL)圣保罗州，南美洲|
+SAT|US|SAN ANTON|圣安东，美国(USA)得克萨斯州，北美洲|
+SAV|US|SAVANNAH|萨凡纳，美国(USA)佐治亚州，南美洲|
+SBA|US|SANTA BARD|桑塔巴德，美国(USA)加利福尼亚州，北美洲|
+SBL|BO|SANTA ANA|圣安娜，玻利维亚(BOLIVIA)，南美洲|
+SBN|US|SOUTH BEND|南本德，美国(USA)印第安纳州，北美洲|
+SBO|US|SALINA|萨莱诺，美国(USA)犹他州，北美洲|
+SBS|US|STEAMBOAT SPRINGS     (STEAMBOAT S)|斯廷博特斯普林斯，美国(USA)科罗拉多州，北美洲|
+SBV|PG|SABAH|沙巴，巴布亚新几内亚PAPUA NEW GUINEA)，大洋洲|
+SBW|MY|SIBU|泗务，马来西亚(MALAYSIA)，亚洲|
+SCH| |(SCHENECTAD)| |
+SCL|CL|SANTIAGO|圣地亚哥，智利(CHILE)首都，南美洲|
+SCN|DE|SAARBRUCKEN|萨尔布吕肯，德国(GERMANY)，欧洲|
+SCU|CU|SANTIAGO|圣地亚哥，古巴(CUBA)，加勒比海地区|
+SDF|US|LOUISVILE|路易斯维尔，美国(U.S.A)肯塔基州，北美洲|
+SDJ|JP|SENDAI|仙台，日本(JAPAN)，亚洲|
+SDL|SE|SUNDSVALL|松兹瓦尔，瑞典(SWEDEN)北欧|
+SDN|NO|SANDANE|桑纳讷，挪威(NORWAY)，北欧|
+SDQ|DO|SANTO DOMINGO|圣多明各，多米尼加(DOMINICAN REPUBLIC)首都，加勒比海地区|
+SDR|ES|SANTANDER|桑坦德，西班牙(SPAIN)欧洲|
+SDY|US|SIDNEY|悉尼，美国(USA)蒙大拿州，北美洲|
+SEA|US|SEATTLE|西雃图，美国(USA)华盛顿州，北美洲|
+SEB|LY|SEBHA|塞卜哈，利比亚(LIBYA)非洲|
+SEL|KR|SEOUL|汉城，韩国(KOREA REPUBLIC OF) 首都，亚洲|
+SEZ|SC|MAHE ISLAND     (MAHE IS)|马埃岛，塞舌尔(SEYCHELLES)，非洲(东部印度洋)|
+SFD|VE|SAN FERNANDO|圣费多南多，委内瑞拉9VENEZUELA)南美洲|
+SFE|PH|SAN FERNANDO|圣费多南多，菲律宾(PHILIPPINES)，亚洲|
+SFH|MX|SAN FELIPE|圣费利佩，墨西哥(MEXICO)，中美洲|
+SFN|AR|SANTA FE|圣菲，阿根廷(ARGENTINA)圣非省，南美洲|
+SFO|US|SAN FRANCISCO     (SAN FRANCI)|圣弗朗西斯科(旧金山)，美国(USA)加利福尼亚州，北美洲|
+SFS|PH|SUBIC BAY|苏比克湾，菲律宾(PHILIPPINES)，亚洲|
+SFT|SE|SKELLEFTEA|谢莱夫特奥，瑞典(SWEDEN)北欧|
+SFW|PA|SANTA FE|圣菲，巴拿马(PANAMA)，中美洲|
+SFY|US|SPRINGFIELD     (SPRINGFIEL)|斯普林菲而德，美国(USA)，马萨诸塞州，北美洲|
+SGD|DK|SONDERBORG|森讷堡，丹麦(DENMARK)，北欧|
+SGF|US|SPRINGFIELD     (SPRINGFIEL)|斯普林菲而德，美国(USA)，塞苏里达，北美洲|
+SGH|US|SPRINGFIELD     (SPRINGFIEL)|斯普林菲而德，美国(USA)，俄亥俄州，北美洲|
+SGN|VN|HO CHI MINH CITY     (HO CHI MINH C)|胡志明市，越南(VIETNAM)，亚洲|
+SGO|AU|ST GEORGE|圣乔治，澳大利亚(AUSTRALIA)昆士兰州，大洋洲|
+SGU|US|ST GEORGE|圣乔治，美国(USA)犹他州，北美洲|
+SGX|TZ|SONDGEA|松盖阿，坦桑尼亚(TANZANIA)东非|
+SHA|CN|SHANGHAI|上海，中国(CHINA)，直辖市， 亚洲|
+SHE|CN|SHENYANG|沈阳，中国(CHINA)辽宁省，亚洲|
+SHJ|AE|SHARJAH|沙迦，阿拉伯酋长国(UNITED ARAB EMIRATES)，西亚(中东)|
+SHP|CN|QINHUANGDAO|秦皇岛，中国(CHINA)河北省，亚洲|
+SHS|CN|SHASHI|沙市，中国(CHINA)湖北省，亚洲|
+SIA|CN|XI’AN|西安，中国(CHINA)陕西省，亚洲|
+SIC|TR|SINOP|锡诺普，土耳其(TURKEY)西北亚|
+SIN|SG|SINGAPORE|新加坡，新加坡(SINGAPORE)首都，亚洲|
+SIR|CH|SION|锡永，瑞士(SEITZERLAND)欧洲|
+SJC|US|SAN JOSE|圣何塞，美国(USA)加利福尼亚州，北美洲|
+SJD|MX|SAN JOSE CABO|圣何塞卡布，墨西哥(MEXICO)，中美洲|
+SJF|VI|ST JOHN ISLAND     (ST JOHN IS)|圣约翰岛，美属维尔京群岛(VIRGIN ISLANDS(US))加勒比海地区|
+SJI|PH|SAN JOSE|圣何塞，菲律宾(PHILIPPINES)，亚洲|
+SJJ|BA|SARAJEVO|萨拉热窝，波斯尼亚和黑塞哥维那(BOSNIA AND HERZEGOVINA)首都，欧洲|
+SJO|CR|SAN JOSE|圣何塞，哥斯达黎加(COSTA RICA)首都，中美洲|
+SJQ|ZM|SESHEKE|塞谢凯，赞比亚(ZAMBIA)，非洲|
+SJT|US|SAN ANGELO|圣安吉洛，美国(USA)得克萨斯州，北美洲|
+SJU|PR|SAN JUAN|圣胡安，波多黎各(PUERTO RICO)首府，加勒比海地区|
+SJW|CN|SHIJIAZHUANG|石家庄，中国(CHINA)河北省，亚洲|
+SKB|KN|ST KITTS|圣基茨，圣基茨和尼维斯(ST。KITTS AND NEVIS)，加勒比海地区|
+SKG|GR|THESSALONIKI|塞萨洛尼基，希腊(GREECE)，欧洲巴尔干半岛|
+SKN|NO|STOKMARKNES|斯托克马克内斯，挪威(NORWAY)北欧|
+SKP|MK|SKOPJE|斯科普里，马其顿(MACEDONIA，THE FORMER OF YUGOSLAV REP)首都，欧洲巴尔干半岛|
+SLC|US|SALT LATE CITY     (SALT LATE)|盐湖城，美国(USA)犹他州，北美洲|
+SLD|SK|SLIAC|斯利亚奇，斯洛伐克(SLOVAKIA)欧洲|
+SLE|US|SALEM|塞勒姆，美国(USA)俄勒冈州，北美洲|
+SLI|ZM|SOLWEZI|索卢韦齐，赞比亚(ZAMBIA)，非洲|
+SLN|US|SALINA|萨莱诺，美国(USA)堪萨斯州，北美洲|
+SLZ|BR|SAO LUIZ|圣路易斯，巴西(BRAZIL)马拉尼昂州，南美洲|
+SMA|PT|SANTAMARIA|圣玛丽亚，葡萄牙(PORTUGAL)，欧洲|
+SMI|GR|SAMOS|萨莫斯，希腊(GREECE)欧洲巴尔干半岛|
+SMM|MY|SEMPORNA|仙本那，马来西亚(MALAYSIA)，亚洲|
+SMP|PG|STOCKHOLM|斯德哥尔摩，巴布亚新几内亚(PAPUA NEW GUINEA)，大洋洲|
+SMR|CO|SANTA MARTA|桑塔马尔塔，哥伦比亚(COLOMBIA)南美洲|
+SMX|US|STA MARIA|斯塔玛利亚，美国(USA)加利福尼亚州，北美洲|
+SMY|SN|SIMENTI|锡门蒂，塞内加尔(SENEGAL)西非|
+SNA|US|SANTA ANA|圣安娜，美国(USA)加利福尼亚州，北美洲|
+SNC|EC|SALINAS|萨利诺斯，厄瓜多尔(ECUADOR)，南美洲|
+SNF|VE|SAN FELIPE|圣费利佩，委内瑞拉(VENEZUELA)，南美洲|
+SNN|IE|SHANNON|香农，爱尔兰(IRELAND)，欧洲|
+SNP|US|ST PAUL ISLAND     (ST PAUL)|圣保罗岛，美国(USA)阿拉斯加州，北美洲|
+SNS|US|SALINAS|萨利诺斯，美国(USA)加利福尼亚州，北美洲|
+SNY|US|SIDNEY|悉尼，美国(USA)内布拉斯加州，北美洲|
+SOC|ID|SOLO CITY|索洛城，印度尼西亚(INDONESIA)，亚洲|
+SOF|BG|SOFIA|索非亚，保加利亚(BULGARIA)首都，欧洲|
+SOG|NO|SOGNDAL|松达尔，挪威(NORWAY)，北欧|
+SOJ|NO|SORKJOSEN|瑟休森，挪威(NORWAY)，北欧|
+SON|VU|ESPIRITU SANT|圣埃斯皮里图，瓦努阿图(VANUATU)大洋洲，太平洋岛屿|
+SOT|FI|SODANKYLA|索丹屈莱，芬兰(FINALAND)北欧|
+SOU|GB|SOUTHAMPTON|南安普顿，英国(UNITED KINGDOM)欧洲|
+SPI|US|SPRINGFIELD     (SPRINGFIEL)|斯普林菲而德，美国(USA)伊利诺斯州，北美洲|
+SPK|JP|SAPOORO|扎幌，日本(JAPAN)，亚洲|
+SPN|MP|SAIPAN|塞班，经马里亚细群岛(NORTHERN MARIANA ISLANDS)太平洋岛屿|
+SPQ|US|SAN PEDRO|圣佩德罗，美国(USA)加利福尼亚州，北美洲|
+SPR|BZ|SAN PEDRO|圣佩德罗，伯里兹(BELIZE)中美洲|
+SPS|US|WICHITA FALLS     (WICHITA F)|威奇托福尔斯，美国(USA)得克萨斯州，北美洲|
+SPU|HR|SPLIT|斯普利特，克罗地亚(CROATIA)欧洲巴尔干半岛地区|
+SPY|CI|SAN PEDRO|圣佩德罗，科特迪瓦(COTE D’LOIRE)，西非|
+SRA|BR|SANTA ROSA|圣罗莎，巴西(BRAZIL)南里约格朗德州，南美洲|
+SRE|BO|SUCRE|苏克雷，玻利维亚(BOLIVIA)首都，南美洲|
+SRF|US|SAN RAFAEL|圣拉斐尔，美国(USA)，加利福尼亚州，北美洲|
+SRG|ID|SEMARANG|三宝垄，印度尼西亚(INDONESIA)，亚洲|
+SRH|TD|SARH|萨尔，乍得(CHAD)，非洲|
+SRQ|US|SARASOTA|萨拉索塔，美国(USA)佛罗里达州，北美洲|
+SRZ|BO|SANTA CRUZ|圣克鲁斯，玻利维亚(BOLIVIA)南美洲|
+SSA|BR|SALVADOR|萨尔瓦多，巴西(BRAZIL)巴伊亚州，北美洲|
+SSD|CO|SAN FELIPE|圣费利佩，哥伦比亚(COLOMBIA)，南美洲|
+SSG|GQ|MALABO|马拉博，赤道几内亚(EQUATORIAL GUINEA)，首都，非洲|
+SSJ|NO|SANDNESSJOEN|桑内舍恩，挪威(NORWAY)，北欧|
+STD|VE|SANTO DOMINGO|圣多明各，委内瑞拉(VENEZUELA)，南美洲|
+STG|US|ST GEORGE|圣乔治，美国(USA)阿拉斯加州，北美洲|
+STI|DO|SANTIAGO|圣地亚哥，多米尼加共和国(DOMINICAN REPUBLIC)，加勒比海地区|
+STL|US|ST LOUIS|圣路易斯，美国(USA)密苏里州，北美洲|
+STM|BR|SANTAREM|圣塔伦，巴西(BRAZIL)巴拉州，南美洲|
+STO|SE|STOCKHOLM|斯德哥尔摩，瑞典(SWEDEN)首都，欧洲|
+STQ|US|ST MARYS|圣马里斯，美国(USA)宾夕法尼亚州，北美洲|
+STR|DE|STUTTGART|斯图加特，德国(GERMANY)，欧洲|
+STS|US|SANTA ROSA|圣罗莎，美国(USA)加利福尼亚州，北美洲|
+STT|VI|ST THOMAS|圣托马斯，美属维尔京群岛(VIRGIN ISLANDS)(US)，加勒比海地区|
+STX|VI|ST CROIX|圣克罗伊，美属维尔京群岛(VIRGIN ISLANDS)(US)，加勒比海地区|
+SUB|ID|SURABAYA|泗水，印度尼西亚(INDONESIA)，亚洲|
+SUV|FJ|SUVA|苏瓦，斐济(FIJI)，大洋州太平洋岛屿|
+SUX|US|SIOUX CITY|苏城，美国(USA)艾奥瓦州，北美洲|
+SVG|NO|STAVANGER|斯塔万格，挪威(NORWAY)欧洲|
+SVJ|NO|SVOLVAER|斯沃尔韦尔，挪威(NORWAY)，北欧|
+SVL|FI|SAVONLINNA|萨翁林纳，芬兰(FINLAND)，北欧|
+SVM|AU|ST PAUL’S|圣保罗斯，澳大利亚(AUSTRALIA)昆士兰州，大洋洲|
+SVQ|ES|SEVILLA|塞维利亚，西班牙(SPAIN)，欧洲|
+SVZ|VE|SAN ANTONIO|圣安东屁奥，委内瑞拉(VENEZUELA)，南美洲|
+SWA|CN|SHANTOU|汕头，中国(CHINA)广东省，亚洲|
+SWF|US|NEWBURGH|纽堡，美国(USA)纽约州，北美洲|
+SXB|FR|STRASBOURG|斯特拉斯堡，法国(FRANCE)，欧洲|
+SXG|ZM|SENANGA|塞南亚，赞比亚(ZAMBIA)，非洲|
+SXM|AN|ST MAARTEN|圣马尔滕，荷属安的列斯(NETHERLANDS ANTILLES)，加勒比海地区|
+SYD|AU|SYDNEY|悉尼，澳大利亚(AUSTRIA)新南威尔土州，大洋洲|
+SYM|CN|SIMAO|恩茅，中国(CHINA)云南省，亚洲|
+SYP|PA|SANTIAGO|圣地亚哥，巴拿马(PANAMA)，中美洲|
+SYR|US|SYRACUSE|锡拉丘兹，波兰(POLAND)，欧洲|
+SYX|CN|SANYA|三亚，中国(CHINA)，海南省，亚洲|
+SYY|GB|STORNOWAY|斯托诺韦，英国(UNITED KINGDOM)，欧洲|
+SZC|CR|SANTA CRUZ|圣克鲁斯，哥斯达黎加(COSTA RICA)中美洲|
+SZD|GB|SHEFFIELD|设菲尔德，英国(UNITED KINGDOM)，欧洲|
+SZG|AT|SALZBURG|萨尔茨堡，奥地利(AUSTRIA)，欧洲|
+SZU|ML|SEGOU|塞古，马里(MALI)，西非|
+SZV|CN|SUZHOU|苏州，中国(CHINA)，亚洲|
+SZX|CN|SHENZHEN|深圳，中国(CHINA)广东省，亚洲|
+SZZ|PL|SZCZECIN|什切青，波兰(POLAND)欧洲|
+TAE|KR|DAEGU|大丘，韩国(DOREA，REPUBLIC OF)，亚洲|
+TAI|YE|TAIZ|塔伊兹，也门(YEMEN)，西亚(中东)|
+TAK|JP|TAKAMATSU|高松，日本(JAPAN)，亚洲|
+TAM|MX|TAMPICO|坦皮科，墨西哥(MEXICO)，中美洲|
+TAO|CN|QINGDAO|青岛，中国(CHINA)山东省，亚洲|
+TAP|MX|TAPACHULA|塔帕丘拉，墨西哥(MEXICO)，中美洲|
+TAS|UZ|TASHKENT|塔什干，乌兹别克斯坦(UZBEKISTAN)首都，中亚|
+TAT|SK|POPRAD/TATRY|波普拉德/塔特拉，斯洛伐克(SLOVKIA)，欧洲|
+TBN|US|FORT LEONARD     (FT LEONARD)|伦纳德堡，美国(USA)密苏里州，北美洲|
+TBO|TZ|TABORA|塔波拉，坦桑尼亚(TANZANIA)，东非|
+TBS|GE|TBILISI|第比利斯，格鲁吉亚(GEORGIA)首都，西北亚|
+TCG|CN|TACHENG|塔城，中国(CHINA)新疆自治区，亚洲|
+TCH|GA|TCHIBANGA|奇班加，加蓬(GABON)，非洲|
+TCI|ES|TENERIFE|特内里费，西班牙(SPAIN)，欧洲|
+TCL|US|TUSCALOOSA|塔斯卡卢萨，美国(USA)阿拉巴马州，北美洲|
+TDA|CO|TRINIDAD|特里尼达，哥伦比亚(COLOMBIA)，南美洲西北部|
+TDD|BO|TRINIDAD|特里尼达，玻利维亚(BOLIVIA)，南美洲|
+TEE|DZ|TBESSA|泰贝萨，阿尔及利亚(ALGERIA)，非洲西北部|
+TER|PT|TERCEIRA ISLAND     (TERCEIRA IS)|特塞拉岛，葡萄牙(PORTUGAL)，欧洲|
+TGD|YU|PODGORICA|波德戈里察，塞尔维亚和黑山(SERBIA AND MONTENEGRO)，欧洲巴尔干半岛|
+TGG|MY|KUALA TERENGGANU   (KUALA TERENGG)|瓜拉丁加努，马来西亚(MALAYSIA)，亚洲|
+TGO|CN|TONGLIAO|通辽，中国(CHINA)内蒙古自治区，亚洲|
+TGT|TZ|TANGA|坦噶，坦桑尼亚(TANZANIA)，东非|
+TGU|HN|TEGUCIGALPA|特古西加尔巴， 洪都拉斯(HONDURAS)，中美洲|
+TGZ|MX|TUXTLA GUTIERREZ     (TUXTLA GUTIER)|图斯特拉-古铁雷斯，墨西哥(MEXICO)，中美洲|
+THE|BR|TERESINA|特雷西纳，巴西(BRAZIL)，皮奥伊州，南美洲|
+THR|IR|TEHRAN|德里兰，伊朗(IRAN)，西亚(中东)|
+THZ|NE|TAHOUA|塔瓦，尼日尔(NIGER)，西非|
+TIA|AL|TIRANA|地拉那，阿尔巴尼亚(ALBANIA)首都，欧洲|
+TIF|SA|TAIF|塔伊夫，沙特阿拉伯(SAUDI ARABIA)，西亚(中东)|
+TIJ|MX|TIJUANA|蒂华纳，墨西哥(MEXICO)，中美洲|
+TIN|DZ|TINDOUF|廷杜夫，阿尔及利亚(ALGERIA)，非洲西北部|
+TIP|LY|TRIPOLI|的黎波里，利比亚(LIBYA)首都，非洲|
+TIV|YU|TIVAT|蒂瓦特，南斯拉夫(YUGOSLAVIA)，欧洲巴尔干半岛|
+TJI|HN|TRUJILLO|特鲁希略，洪都拉斯(HONDURAS)，中美洲|
+TKD|GH|KAKORADI|加戈拉迪，加纳(GHANA)西非|
+TKQ|TZ|KIGOMA|基戈马，坦桑尼亚(TANZANIA)东非|
+TKS|JP|TOKUSHIMA|得岛，日本(JAPAN)，亚洲|
+TKU|FI|TURKU|图尔库，芬兰(FINLAND)，北欧|
+TLH|US|TALLAHASSEE     (TALLAHASS)|塔拉哈西，美国(USA)佛罗里达州，北美洲|
+TLL|EE|TALLINN|塔林，爱沙尼亚(ESTONIA)首都，欧洲|
+TLM|DZ|TLEMCEN|特莱姆森，阿尔及利亚(ALGERIA)，非洲西北部|
+TLN|FR|TOULON|土伦，法国(FRANCE)欧洲|
+TLS|FR|TOULOUSE|图卢兹，法国(FRANCE)欧洲|
+TLV|IL|TEL AVIV YAFO|特拉维夫-雃法，以色列(ISRAEL)首都，亚洲|
+TML|GH|TAMALE|塔马利，加纳(GHANA)，西非|
+TMP|FI|TAMPERE|坦佩雷，芬兰(FINLAND)，北欧|
+TMR|DZ|TAMANRASSET|塔曼盖塞特，阿尔及利亚(ALGERIA)，非洲西北部|
+TMS|ST|SAO TOME ISLAND     (SAO TOME IS)|圣多美岛，圣多美和普林西比(SAO TOME AND PRINCIPE)非洲|
+TNA|CN|JINAN|济南，中国(CHINA)山东省，亚洲|
+TNG|MA|TANGIER|丹吉尔，摩洛哥(MOROCCO)，非洲西北部|
+TNH|CN|TONGHUA|通化，中国(CHINA)吉林省，亚洲|
+TNN|TW|TAINAN|台南，中国(CHINA)台湾省，亚洲|
+TNR|MT|ANTANANARIVO|昂塔那那利佛，马达加斯加MADAGASCAR)首都，非洲|
+TOB|LY|TOBRUK|图卜鲁格，利比亚(LIBYA)，非洲北部|
+TOL|US|TOLEDO|托莱多，美国(USA)俄亥俄州，北美洲|
+TOM|ML|TOMBOUCTOU|通布图，马里(MALI)，西非|
+TOP|US|TOPEKA|托皮卡，美国(USA)堪萨斯州，北美洲|
+TOW|BR|TOLEDO|托莱多，巴西(BRAZIL)巴拉那州，南美洲|
+TOY|JP|TOYAMA|富山，日本(JAPAN)亚洲|
+TPA|US|TAMPA|坦帕，美国(USA)佛罗里达州，北美洲|
+TPE|TW|TAIPEI|台北，中国(CHINA)台湾省，亚洲|
+TPS|IT|TRAPANI|特拉帕尼，意大利(ITALY)，欧洲|
+TRC|MX|TORREON|托雷翁，墨西哥(MEXICO)，中美洲|
+TRD|NO|TRONDHEIM|特隆赫姆，挪威(NORWAY)，北欧|
+TRI|US|BRISTOL|布里斯托尔，美国(USA)弗吉尼亚州，北美洲|
+TRI|US|JOHNSON CITY     (JOHNSON C)|杰克逊城，美国(USA)田纳西州，北美洲|
+TRI|US|TRI-CITY|特里城，美国(USA)田纳西州，北美洲|
+TRN|IT|TURIN|都灵，意大利(ITALY)，欧洲|
+TRS|IT|TRIESTE|的里雃斯特，意大利(ITALY)，欧洲|
+TRU|PE|TRUJILLO|特鲁希略，秘鲁(PERU)，南美洲|
+TSV|AU|TOWNSVILLE|汤斯维尔，澳大利亚(AUSTRALIA)昆士兰州，大洋洲|
+TTJ|JP|TOTTORI|鸟取，日本(JAPAN)，亚洲|
+TTN|US|TRENTON|特伦敦，美国(USA)新泽西州，北美洲|
+TTT|TW|TAITUNG|台东，中国(CHINA)台湾省，亚洲|
+TUD|SN|TAMBACOUNDA|坦巴昆达，塞内加尔(SENEGAL)，西非|
+TUL|US|TULSA|塔尔萨，美国(USA)俄克拉何马州，北美洲|
+TUN|TN|TUNIS|突尼斯，突尼斯(TUNISIA)首都，非洲|
+TUP|US|TUPELO|图帕洛，美国(USA)密西西比州，北美洲|
+TUS|US|TUCSON|图森，美国(USA)亚利桑那州，北美洲|
+TUU|SA|TABUK|泰布克，沙特阿拉伯(SAUDI ARABIA)，西亚(中东)|
+TVC|US|TRAVERSE|特拉弗斯，美国USA)密歇根州，北美洲|
+TWU|MY|TAWAU|斗湖，马来西亚(MALAYSIA)，亚洲|
+TXG|TW|TAICHUNG|台中，中国(CHINA)台湾省，亚洲|
+TXK|US|TEXARKANA|特克萨卡纳，美国(USA)阿肯巴马州，北美洲|
+TXN|CN|HUANGSHAN|黄山，中国(CHINA)安徽省，亚洲|
+TXN|CN|TUNXI|屯溪，中国(CHINA)安徽省，亚洲|
+TXU|CI|TABOU|塔布，科特迪瓦(COTE D‘LVOIRE)，西非|
+TYL|PE|TALARA|塔拉腊，秘鲁(PERU)南美洲|
+TYN|CN|TAIYUAN|太原，中国(CHINA)山西省，亚洲|
+TYO|JP|TOKYO|东京，日本(JAPAN)，亚洲|
+TYR|US|TYLER|泰勒，美国(USA)得克萨斯州，北美洲|
+TYS|US|KNOXVILLE|诺克斯维尔，美国(USA)田纳西州，北美洲|
+UAQ|AR|SAN JUAN|圣胡安，阿根廷(ARGENTINA)圣胡安省，南美洲|
+UBI|JP|UBE|宇都，日本(JAPAN)，亚洲|
+UBS|US|COLUMBUS|哥伦布，美国(USA)密西西比州，北美洲|
+UCA|US|ROME|罗马，美国(USA)纽约州，北美洲|
+UCA|US|UTICA|尤蒂卡，美国(USA)纽约州，北美洲|
+UET|PK|QUETTA|奎达，巴基斯坦(PAKISTAN)，亚洲|
+UIO|EC|QUITO|基多，厄瓜多尔(ECUADOR)首都，南美洲|
+UIP|FR|QUIMPER|坎佩尔，法国(FRANCE)，欧洲|
+ULN|MN|ULAANBAATAR|乌兰巴托，蒙古(MONGOLIA)首都，亚洲|
+UME|SE|UMEA|于黙奥，瑞典(SWEDEN)，北欧|
+UPG|ID|UJUNG PANDANG|乌戎潘当，印度尼西亚(INDONESIA)，亚洲|
+UPN|MX|URUAPAN|乌鲁阿潘，墨西哥(MEXICO)，中美洲|
+URC|CN|URUMQI|乌鲁木齐，中国(CHINA)，新疆自治区，亚洲|
+US|FL|NAPLES|那不勒斯，美国(USA)佛罗里达州，北美洲|
+UTN|ZA|UPINGTON|阿平顿，南非(SOUTH AFRICA)，非洲南部|
+VAA|FI|VAASA|瓦萨，芬兰(FINLAND)，北欧|
+VAF|FR|VALENCE|瓦朗斯，法国(FRANCE)，欧洲|
+VCE|IT|VENICE|威尼斯，意大利(ITALY)，欧洲|
+VCT|US|VICTORIA|维多利亚，美国(USA)得克萨斯州，北美洲|
+VDS|NO|VADSO|瓦德瑟，挪威(NORWAY)，北欧|
+VER|MZ|VERACRUZ|韦拉克鲁斯，墨西哥(MEXICO)，中美洲|
+VGO|ES|VIGO|维哥，西班牙(SPAIN)，欧洲|
+VIE|AT|VIENNA|维也纳，奥地利(AUSTRIA)首都， 欧洲|
+VIS|US|VISALIA|维塞利亚，美国(USA)加利福尼亚州，北美洲|
+VIT|ES|VITORIA|维多利亚，西班牙(SPAIN)，欧洲|
+VIX|BR|VITOROA|维多利亚，巴西(BRAZIL)圣埃其皮里托州，南美洲|
+VLC|ES|VALENCIA|巴伦西亚，西班牙(SPAIN)，欧洲|
+VLI|VU|PORT VILA|维拉港，瓦努图阿(VANUATU)，大洋洲(太平洋岛屿)|
+VLL|ES|VALLADOLID|巴利亚多利德，西班牙(SPAIN)，欧洲|
+VLN|VE|VALENCIA|巴伦西亚，委内瑞拉(VENEZUELA)，南美洲|
+VNO|LT|VILNIUS|维尔纽斯，立陶宛(LITHUANIA)首都，欧洲|
+VPS|US|VALPARAISO|瓦尔帕莱索，美国(USA)佛罗里达州，北美洲|
+VPZ|US|VALPARAISO|瓦尔帕莱索，美国(USA)印第安纳州，北美洲|
+VRK|FI|VARKAUS|瓦尔考斯，芬兰(FINLAND)，北欧|
+VRN|IT|VERONA|维罗纳，意大利(ITALY)，欧洲|
+VSA|MX|VILLAHERMOSA|比亚埃尔莫萨，墨西哥(MEXICO)，中美洲|
+VSF|US|SPRINGFIELD     (SPRINGFIEL)|斯普林菲而德，美国(USA)，佛蒙特州，北美洲|
+VST|SE|VASTERAS|韦斯特罗斯，瑞典(SWEDEN)，北欧|
+VTE|LA|VIENTIANE|万象，老挝(LAOS)， 亚洲|
+VVK|SE|VASTERVIK|韦斯特维克，瑞典(SWEDEN)，北欧|
+VVO|XU|VLADIVOSTOK|符拉迪沃斯托克(海参威)，俄罗斯(RUSSIA)，乌拉尔山脉以东|
+VVZ|DZ|ILLIZI|伊利济，阿尔及利亚(ALGERIA)非洲西北部|
+WAS|US|WASHINGTON|华盛顿，美国(USA)首都(哥伦比亚特区)，北美洲|
+WAW|PL|WARSAW|华沙，波兰(POLAND)首都，欧洲|
+WDB|US|DEEP BAY|迪普贝，美国(USA)阿拉斯加州，北美洲|
+WDH|NA|WINDHOEK|温德和克，纳米比亚(NAIBIA)首都，非洲|
+WEF|CN|WEIFANG|潍坊，中国(CHINA)山东省，亚洲|
+WEH|CN|WEIHAI|威海，中国(CHINA)山东省，亚洲|
+WHU|CN|WUHU|无湖，中国(CHINA)安徽省，亚洲|
+WJF|US|LANCASTER|兰开斯特，美国(USA)加利福尼亚州，北美洲|
+WLG|NZ|WELLINGTON|惠灵顿，新西兰(NEW ZEALAND)首都 ，大洋洲|
+WNZ|CN|WENZHOU|温州，中国(CHINA)浙江省，亚洲|
+WRO|PL|WROCLAW|弗罗茨瓦夫，波兰(POLAND)欧洲|
+WSG|US|WANSHINGTON|华盛顿，美国(USA)宾夕法尼亚州，北美洲|
+WUH|CN|WUHAN|武汉，中国(CHINA)湖北省，亚洲|
+WUS|CN|WUYISHAN|武夷山，中国(CHINA)福建省，亚洲|
+WUX|CN|WUXI|无锡，中国(CHINA)江苏省，亚洲|
+WXN|CN|WANXIAN|万县，中国(CHINA)四川省，亚洲|
+XCH|CX|CHIRSTMAS ISLANDS     (CHIRSTMAS ISL)|圣诞群岛，印度洋岛屿(印度尼西亚左下方)|
+XCM|CA|CHATHAM|查塔姆，加拿大(CANADA)安大略省，北美洲|
+XFN|CN|XIANGFAN|襄樊，中国(CHINA)湖北省，亚洲|
+XIC|CN|XICHANG|西昌，中国(CHINA)四川省，亚洲|
+XIL|CN|XILINHOT|锡林浩特，中国(CHINA)内蒙古自治区，亚洲|
+XIN|CN|XINGNING|兴宁，中国(CHINA)广东省，亚洲|
+XLS|SN|ST LOUIS|圣路易斯，塞内加尔(SENEGAL)，西非|
+XMN|CN|XIAMEN|厦门，中国(CHINA)福建省， 亚洲|
+XNN|CM|XINING|西宁，中国(CHINA)青海省，亚洲|
+XNT|CN|XINGTAI|邢台，中国(CHINA)河北省，亚洲|
+XRY|ES|JEREZ DE LA FRONTERA     (JEREZ DE LA F)|赫雷斯-得拉弗龙特拉，西班牙(SPAIN)，欧洲|
+XUZ|CN|XUZHOU|徐州，中国(CHINA)江苏省，亚洲|
+YAO|CM|YAOUNDE|雃温得，喀麦隆(CAMEROON)首都，非洲|
+YAY|CA|ST ANTHONY|圣安东尼，加拿大(CANADA)，纽芬兰省，北美洲|
+YBX|CA|BLANC SABLON     (BLANC SAB)|布朗萨布隆，加拿大(CANADA)魁北克省，北美洲|
+YCH|CA|CHATHAM|查塔姆，加拿大(CANADA)新不论瑞克省，北美洲|
+YDF|CA|DEER LAKE|迪尔莱克，加拿大(CANADA)纽芬兰省，北美洲|
+YEA|CA|EDMONTON|埃德蒙顿，加拿大(CANADA)艾伯塔省，北美洲|
+YFC|CA|FREDERICTON     (FREDERICTO)|弗雷德里克顿，加拿大(CANADA)新不伦瑞克省，北美洲|
+YGK|CA|KINGSTON|金斯敦，加拿大(CANADA)安大略省，北美洲|
+YGQ|CA|GERALDTON|杰拉尔顿，加拿大(DANADA)，安大略省，北美洲|
+YHG|CA|CHARLOTTOWN     (CHARLOTTWN)|夏洛特敦，加拿大(CANADA)纽芬兰省，北美洲|
+YHM|CA|HAMILTON|哈密尔顿，加拿大(CANADA)安大略省，北美洲|
+YHZ|CA|HALIFAX|哈利法克斯，加拿大(CANADA)新斯利舍省，北美洲|
+YIH|CN|YICHANG|宜昌，中国(CHINA)湖北省，亚洲|
+YIN|CN|YINING|伊宁，中国(CHINA)新疆自治区，亚洲|
+YIW|CN|YIWU|义乌，中国(CHINA)浙江省，亚洲|
+YJT|CA|STEPHENVILLE     (STEPHENVIL)|斯蒂芬维尔，加拿大(CANADA)纽芬兰州，北美洲|
+YLH|CA|LANSDOWNE HOUSE     (LANSDOWNE)|兰士当豪斯，加拿大(CANADA)，安大略省，北美洲|
+YLW|CA|KELOWNA|基洛纳，加拿大(CANADA)，不列颠哥伦比亚省，北美洲|
+YMG|CA|WINNIPEG|温尼伯，加拿大(CANADA)马尼托巴州，北美洲|
+YMQ|CA|MONTREAL|蒙特利尔，加拿大(CANADA)魁北克首，北美洲|
+YNB|SA|YANBU|延布，沙特阿拉伯(SAUDI ARABIA)西亚(中东)|
+YNJ|CN|YANJI|延吉，中国(CHINA)吉林省，亚洲|
+YNT|CN|YANTAI|烟台，中国(CHINA)山东省，亚洲|
+YOW|CA|OTTAWA|渥太华，加拿大(CANADA)首都，安大略省，北美洲|
+YQG|CA|WINDSOR|温莎，加拿大(CANADA)安达略省，北美洲|
+YQI|CA|YARMOUTH|雃茅斯，加拿大(CANADA)新斯科舍省，北美洲|
+YQM|CA|MONCTON|蒙克顿，加拿大(CANADA)新不伦瑞克省，北美洲|
+YQR|CA|REGINA|里贾纳，加拿大(CANADA)萨斯喀彻温省，北美洲|
+YQS|CA|ST THOMAS|圣托马斯，加拿大(CANADA)安大略省，北美洲|
+YQT|CA|THUNDER BAY     (THUNDER B)|桑德贝，加拿大(CANADA)安达略省，北美洲|
+YQU|CA|GRANDE PRAIRIE     (GRANDE PR)|大草原，加拿大(USA)艾伯塔省，北美洲|
+YQX|CA|GANDER|甘德，加拿大(CANADA)纽芬兰省，北美洲|
+YQY|CA|SYDNEY|悉尼，加拿大(CANADA)新斯科舍州，北美洲|
+YSJ|CA|ST JOHN|圣约翰，加拿大(CANADA)新不伦瑞克省，北美洲|
+YSM|CA|FORT SMITH     (FT SMITH)|史密斯堡，加拿大(CANADA)西北地区，北美洲|
+YSP|CA|MARATHON|马拉松，加拿大(CANADA)，安大略省，北美洲|
+YTO|CA|TORONTO|多伦多，加拿大(CANADA)，安大略省，北美洲|
+YTR|CA|TRENTON|特伦敦，加拿大(CANADA)安大略省，北美洲|
+YUY|CA|ROUYN|鲁安，加拿大(CANADA)魁北克省，北美洲|
+YVA|KM|MORONI|莫罗尼，科摩罗(COMOROS)首都，非洲|
+YVO|CA|VAL D‘OR|瓦勒多，加拿大(CANADA)魁北克省，北美洲|
+YVR|CA|VANCOUVER|温哥华，加拿大(CANADA)不列颠哥伦比亚省，北美洲|
+YVZ|CA|DEER LAKE|迪尔莱克，加拿大(CANADA)安大略省，北美洲|
+YXE|CA|SASKATOON|萨斯卡通，加拿大(CANADA)萨斯喀彻温省，北美洲|
+YXU|CA|LONDON|伦敦，加拿大(CANADA)安大略省，北美洲|
+YXY|CA|WHITEHORSE|怀特霍斯，加拿大(CANADA)育空地区，北美洲|
+YYB|CA|NORTH BAY|诺斯贝，加拿大(CANADA)安大略省，北美洲|
+YYC|CA|CALGARY|卡尔加里，加拿大(CANADA)艾伯塔省，北美洲|
+YYE|CA|FORT NELSON     (FT NELSON)|纳尔逊堡，加拿大(CANADA)不列颠哥伦比亚省，北美洲|
+YYF|CA|PENTICTON|彭蒂克顿，加拿大(CANADA)不列颠哥伦比亚省，北美洲|
+YYG|CA|CHARLOTTOWN     (CHARLOTTWN)|夏洛特敦，加拿大(CANADA)爱德华王子岛省，北美洲|
+YYJ|CA|VICTORIA|维多利亚，加拿大(CANADA)不列颠哥伦比亚省东南部，北美洲|
+YYQ|CA|CHURCHILL|丘吉尔，加拿大(CANADA)马尼托巴省，北美洲|
+YYR|CA|GOOSE BAY|吉斯贝，加拿大(CANADA)纽芬兰省，北美洲|
+YYT|CA|ST JOHNS|圣约翰斯，加拿大(CANADA)纽芬兰省，北美洲|
+YZF|CA|YELLOWKNIFE     (YELLOWKNIF)|耶洛奈夫，加拿大(CANADA西北地区，北美洲|
+YZR|CA|SARNIA|萨尼亚，加拿大(CANADA)安大略省，北美洲|
+YZV|CA|SEPT-ILES|七岛港，加拿大(CANADA)魁北克省，北美洲|
+ZAD|HR|ZADAR|扎达尔，克罗地区(CROATIA)，欧洲巴尔干半岛|
+ZAG|HR|ZAGREB|萨格勒布，克罗地亚(CROATIA)，首都，欧洲|
+ZAT|CN|ZHAOTONG|昭通，中国(CHINA)四川省，亚洲|
+ZBF|CA|BATHURST|巴瑟斯特，加拿大(CANADA)新不伦瑞克省，北美洲|
+ZFA|CA|FARO|法鲁，加拿大(CANADA)育空地区，北美洲|
+ZGF|CA|GRAND FORK|大福克，加拿大(CANADA)，不列颠哥伦比亚省，北美洲|
+ZGM|ZM|NGOMA|恩戈马，赞比亚(ZAMBIA)非洲|
+ZHA|CN|ZHANJIANG|湛江，中国(CHINA)广东省，亚洲|
+ZIG|SN|ZIGUINCHOR|济金绍尔，塞内加尔(SENEGAL)西非|
+ZIH|MX|ZIHUATANEJO|锡瓦塔内霍，墨西哥(MEXICO)，中美洲|
+ZKB|ZM|KASABA BAY|卡萨巴拜，赞比亚(ZAMBIA)，非洲|
+ZLO|MX|MANZANILLO|曼萨尼约，墨西哥(MEXICO)，中美洲|
+ZND|NE|ZINDER|津德尔，尼日尔(NIGER)，西非|
+ZNZ|TZ|ZANZIBAR|桑给巴尔，坦桑尼亚(TANZANIA)，非洲东部|
+ZRH|CH|ZURICH|苏黎世，瑞士(SEITZERLAND)，欧洲|
+ZSA|BS|SAN SALVADOR|圣萨尔瓦多，巴哈马(BAHAMAS)，加勒比海地区|
+ZSS|CI|SASSANDRA|萨桑德拉，科特迪瓦(COTE D‘LVOIRE)，西非|
+ZTH|GR|ZAKINTHOS ISALAND     (ZAKINTHOS IS)|扎金索斯岛，希腊(GREECE)欧洲巴尔干半岛|
+ZUH|CN|ZHUHAI|珠海，中国(CHINA)亚洲|
+ZUM|CA|CHURCHILL|丘吉尔，加拿大(CANADA)纽芬兰省，北美洲|
+ZZU|MW|MZUZU|姆祖祖，马拉维(MALAWI)，非洲南部|
